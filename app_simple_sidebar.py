@@ -1,8 +1,9 @@
 import base64
 import datetime
 import io
+from string import whitespace
 
-from dash import Dash, dash_table, html, dcc, Input, Output
+from dash import Dash, dash_table, dcc, html
 from dash.dependencies import Input, Output, State
 import dash_bootstrap_components as dbc
 import pandas as pd
@@ -104,8 +105,17 @@ def create_form(PAGE_SIZE, offcanvas):
 def create_data_table(df, dataTypeDict):
     return dash_table.DataTable(
         id="table-sorting-filtering",
+        data=df.to_dict(orient="records"),
         columns=[
             {
+                "id": i,
+                "name": i,
+                "type": dataTypeDict.get(i, "any"),
+                "deletable": True,
+                "presentation": "markdown",
+            }
+            if i == "links"
+            else {
                 "name": i,
                 "id": i,
                 "type": dataTypeDict.get(i, "any"),
@@ -124,10 +134,10 @@ def create_data_table(df, dataTypeDict):
         sort_by=[],
         style_as_list_view=True,
         style_cell={
-            "padding": "5px",
-            "padding-right": "30px",
+            # "padding": "5px",
+            # "padding-right": "30px",
             "padding-left": "10px",
-            # "whiteSpace": "pre-line",
+            "whiteSpace": "pre",
         },
         style_data={"color": "black", "backgroundColor": "white"},
         style_data_conditional=[
@@ -142,11 +152,8 @@ def create_data_table(df, dataTypeDict):
             "fontWeight": "bold",
         },
         css=[
-            {
-                "selector": ".dash-cell div.dash-cell-value",
-                "rule": "display: inline; whiteSpace: pre-line;",
-            },
             {"selector": ".show-hide", "rule": "display: none"},
+            {"selector": "p", "rule": "margin-bottom: 0; text-align: center"},
         ],
     )
 
@@ -251,11 +258,15 @@ def update_table(
 
     for filter_part in filtering_expressions:
         col_name, operator, filter_value = split_filter_part(filter_part)
-
+        if filter_value:
+            if filter_value.is_integer():
+                filter_value = int(filter_value)
         if operator in ("eq", "ne", "lt", "le", "gt", "ge"):
             # these operators match pandas series operator method names
             dff = dff.loc[getattr(dff[col_name], operator)(filter_value)]
         elif operator == "contains":
+            if not np.issubdtype(dff[col_name], np.number):
+                filter_value = str(filter_value)
             dff = dff.loc[dff[col_name].str.contains(filter_value)]
         elif operator == "datestartswith":
             # this is a simplification of the front-end filtering logic,
@@ -273,6 +284,14 @@ def update_table(
     size = page_size
     columns = [
         {
+            "name": i,
+            "id": i,
+            "type": DTD.get(i, "any"),
+            "deletable": True,
+            "presentation": "markdown",
+        }
+        if i == "links"
+        else {
             "name": i,
             "id": i,
             "type": DTD.get(i, "any"),
@@ -328,10 +347,10 @@ def build_app(PAGE_SIZE, df):
 if __name__ == "__main__":
 
     PAGE_SIZE = 50
-
-    df = pd.read_csv(
-        "https://raw.githubusercontent.com/plotly/datasets/master/gapminderDataFiveYear.csv"
-    )
+    df = pd.read_csv("Tables/BBB_test.csv")
+    # df = pd.read_csv(
+    # "https://raw.githubusercontent.com/plotly/datasets/master/gapminderDataFiveYear.csv"
+    # )
     app.layout = build_app(PAGE_SIZE, df)
     app.run_server(debug=True)
 
