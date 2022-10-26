@@ -21,7 +21,7 @@ def parse_args():
     parser.add_argument("-a", "--anno_fl", action="store")
     parser.add_argument("-f", "--fasta_fl", action="store")
     parser.add_argument("-m", "--max_filter", action="store", type=int)
-    parser.add_argument("-r", "--rna_limit", default=30, action="store", type=int)
+    parser.add_argument("-r", "--rna_limit", action="store", type=int)
     parser.add_argument("-p", "--pkl_fl", action="store")
     parser.add_argument(
         "-t",
@@ -330,12 +330,18 @@ def set_column_names(df):
 
 
 @logger
-def print_pkl_tsv_file(df, out_dir):
+def print_pkl_file(df, out_dir):
     os.mkdir(out_dir)
-    print("print pkl and tsv")
-    file = open(os.path.join(out_dir, "DF_fin.pkl"), "wb")
+    print("print pkl")
+    file = open(os.path.join(out_dir, "DF.pkl"), "wb")
     pickle.dump(df, file)
     file.close()
+
+
+@logger
+def print_tsv_file(df, out_dir):
+    os.mkdir(out_dir)
+    print("print tsv")
     df.to_csv(os.path.join(out_dir, "DF_fin.tsv"), sep=",")
 
 
@@ -392,11 +398,12 @@ def main():
             os.path.join(directory, args.fasta_fl),
             args.rna_limit,
         )
+        print_pkl_file(DF, out_dir)
     set_column_names(DF)
     add_hublinks(DF, args.hub, args.track_id)
     replace_comma_with_newlines(DF)
     DF = rearrange_columns(DF)
-    print_pkl_tsv_file(DF, out_dir)
+    print_tsv_file(DF, out_dir)
 
     print(
         f"\nFINISHED in {time.strftime('%H:%M:%S', time.gmtime(time.time() - start))}\n"

@@ -3,21 +3,21 @@
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_ZW%3A78409178%2D78421570&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,6.0,2480.0,332.8888889,632.1451916,-0.723761,0.00219623,-0.09885329253,0.2211837428,36,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,78409532,78409533,"78402349
 78409193","78410425
 78421555","LSU_rRNA_eukarya
-protein_coding",-,A,error,error,error,1,1,"1:119,1:12,1:13,1:136,1:14,1:141,1:1468,1:154,1:182,1:244,1:2480,1:27,1:28,1:42,1:6,1:73,1:839"
+protein_coding",-,A,NA,NA,NA,1,1,"1:119,1:12,1:13,1:136,1:14,1:141,1:1468,1:154,1:182,1:244,1:2480,1:27,1:28,1:42,1:6,1:73,1:839"
 1,1,SM_V7_1,55058223,55058224,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A55049117%2D55058312&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A55058178%2D55095472&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,10.0,97.0,42.27777778,25.70733911,-1.14707,1.45997e-05,-0.1771532685,0.3671290881,36,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,55058223,55058224,"55049132
 55058193","55058297
 55095457","SSU_rRNA_eukarya
 protein_coding",+,A,"AATGACGGTGCCAGCGAGTCTGGAAACCTGaCCCGAAAGGGTTGGGCAAACTGTTTCATCACCGTCGTGACTGGGATCGGGGCTTGCAATTATTCCCCGTGAAC
-error",".(((((((((((((.....))))...((((((((....)))))))).............))))))))).........(((((..((....))..))))).....
-error","-36.29999923706055
-error",1,1,"1:10,1:12,1:16,1:17,1:18,1:19,1:23,1:28,1:35,1:41,1:47,1:58,1:61,1:63,1:66,1:68,1:82,1:97"
+NA",".(((((((((((((.....))))...((((((((....)))))))).............))))))))).........(((((..((....))..))))).....
+NA","-36.29999923706055
+NA",1,1,"1:10,1:12,1:16,1:17,1:18,1:19,1:23,1:28,1:35,1:41,1:47,1:58,1:61,1:63,1:66,1:68,1:82,1:97"
 2,1,SM_V7_5,14548556,14548557,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A14524840%2D14549052&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A14548389%2D14558882&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,6.0,272.0,53.70588235,64.61630163,-0.532375,0.00499203,-0.04381125015,0.1329053028,34,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,14548556,14548557,"14524855
 14548404","14549037
 14558867","LSU_rRNA_eukarya
 protein_coding","+
--",T,error,error,error,1,1,"1:109,1:11,1:115,1:13,1:19,1:25,1:272,1:28,1:35,1:42,1:53,1:6,1:78,1:8,1:82"
+-",T,NA,NA,NA,1,1,"1:109,1:11,1:115,1:13,1:19,1:25,1:272,1:28,1:35,1:42,1:53,1:6,1:78,1:8,1:82"
 3,1,SM_V7_5,9458432,9458433,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A9392587%2D9458499&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A9434298%2D9466287&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A9458350%2D9492474&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,6.0,560.0,170.6,162.2542449,-0.400968,0.00325528,-0.07340252779,0.1483265573,30,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,9458432,9458433,"9392602
@@ -27,26 +27,26 @@ protein_coding","+
 9492459","5S_rRNA
 protein_coding","+
 -",C,"GCCGGCGACCATACCACGTTGAAAGCACCGGTTCTTGTCCGATCACCGCAGTTAAGCAACGTCGGGTcCGGTCAATACTTGCATGGGTGACCGGCTGGGAATACCGGGTATCGTCGGCT
-error","((((((((.....((((((((...((..((((((......))..))))..))....)))))).))..(((((((...(......)..)))))))((((.....))))...)))))))).
-error","-43.599998474121094
-error",1,1,"1:13,1:145,1:167,1:219,1:23,1:245,1:285,1:43,1:560,1:6"
+NA","((((((((.....((((((((...((..((((((......))..))))..))....)))))).))..(((((((...(......)..)))))))((((.....))))...)))))))).
+NA","-43.599998474121094
+NA",1,1,"1:13,1:145,1:167,1:219,1:23,1:245,1:285,1:43,1:560,1:6"
 4,"1,2,3,4,5",SM_V7_1,78624901,78624902,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A78586833%2D78624941&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A78624804%2D78652855&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,6.0,1086.0,238.9285714,290.7081168,-0.428314,0.00192852,-0.0781878537,0.1328673528,28,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,78624901,78624902,"78586848
 78624819","78624926
 78652840","U6
 protein_coding","+
 -",A,"AAAAATATGGAACGCTTCACGATTTTGCGTGTCATCCTTGCGCAGGGGCCACGCTAATCTTCTCTGTATCGTTCCAATTTTAaTATATGTACCGCCGAAGCGAGTAC
-error",".(((((.(((((((...((.((((..(((((...(((((....))))).))))).)))).....))...)))))))))))).......(((((((....))).))))
-error","-28.200000762939453
-error",1,5,"1:10,1:1086,1:14,1:18,1:271,1:298,1:334,1:354,1:40,1:444,1:452,1:6,1:8"
+NA",".(((((.(((((((...((.((((..(((((...(((((....))))).))))).)))).....))...)))))))))))).......(((((((....))).))))
+NA","-28.200000762939453
+NA",1,5,"1:10,1:1086,1:14,1:18,1:271,1:298,1:334,1:354,1:40,1:444,1:452,1:6,1:8"
 5,"1,2,3,4,5",SM_V7_7,523860,523861,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_7%3A519741%2D523993&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_7%3A523812%2D537252&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,3.0,450.0,120.2857143,145.6362536,-2.5348,0.00247621,-0.1871650996,0.6515599578,28,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,523860,523861,"519756
 523827","523978
 537237","SSU_rRNA_eukarya
 protein_coding",-,C,"CTTCAGCAGGTTCACCTACGGAAACCTTGTTACcACTTTTACTTCCTCTAAATAGTCAAATTAGGTCATCTTCTCAGCGGCAAAGACACTACAATGACGCTAATCCAACGACCTCACTAAAGCATTCAATCGGTATAAGTGACTGGCGGTG
-error","....((((((((..(....)..)))).))))(((.((.((((((((........((......(((((........((((..................))))........))))).......))........))...))))))..)).))).
-error","-22.700000762939453
-error",1,5,"1:12,1:131,1:142,1:220,1:279,1:3,1:361,1:450,1:52,1:6,1:7,1:9"
+NA","....((((((((..(....)..)))).))))(((.((.((((((((........((......(((((........((((..................))))........))))).......))........))...))))))..)).))).
+NA","-22.700000762939453
+NA",1,5,"1:12,1:131,1:142,1:220,1:279,1:3,1:361,1:450,1:52,1:6,1:7,1:9"
 6,1,SM_V7_5,9458428,9458429,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A9392587%2D9458499&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A9434298%2D9466287&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A9458350%2D9492474&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,6.0,47.0,20.0,12.11060142,-0.000128033,0.00325528,0.0003507449639,0.001027755785,27,T4RNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,9458428,9458429,"9392602
@@ -56,214 +56,214 @@ error",1,5,"1:12,1:131,1:142,1:220,1:279,1:3,1:361,1:450,1:52,1:6,1:7,1:9"
 9492459","5S_rRNA
 protein_coding","+
 -",G,"GCCGGCGACCATACCACGTTGAAAGCACCGGTTCTTGTCCGATCACCGCAGTTAAGCAACGTCgGGTCCGGTCAATACTTGCATGGGTGACCGGCTGGGAATACCGGGTATCGTCGGCT
-error","((((((((.....((((((((...((..((((((......))..))))..))....)))))).))..(((((((...(......)..)))))))((((.....))))...)))))))).
-error","-43.599998474121094
-error",1,1,"1:10,1:11,1:22,1:23,1:24,1:28,1:47,1:6,1:9"
+NA","((((((((.....((((((((...((..((((((......))..))))..))....)))))).))..(((((((...(......)..)))))))((((.....))))...)))))))).
+NA","-43.599998474121094
+NA",1,1,"1:10,1:11,1:22,1:23,1:24,1:28,1:47,1:6,1:9"
 7,1,SM_V7_5,14508323,14508324,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A14488794%2D14508389&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A14508254%2D14520441&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,6.0,1477.0,400.7692308,514.2857861,-0.527492,0.00301237,-0.040338698,0.1406313108,26,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,14508323,14508324,"14488809
 14508269","14508374
 14520426","U6
 protein_coding","+
 -",A,"AAAAATATGGAACGCTTCACGATTTTGCGTGTCATCCTTGCGCAGGGGCCATGCaAATCTTCTCTGTATCGTTCCAATTTTAGTATATGTACCGCCGAAGCGATG
-error",".(((((.(((((((...((.((.((((((((...(((((....))))).))))))))...))..))...))))))))))))...........(((....)))...
-error","-25.200000762939453
-error",1,1,"1:10,1:1046,1:11,1:1230,1:1477,1:16,1:206,1:30,1:318,1:6,1:765,1:8,1:87"
+NA",".(((((.(((((((...((.((.((((((((...(((((....))))).))))))))...))..))...))))))))))))...........(((....)))...
+NA","-25.200000762939453
+NA",1,1,"1:10,1:1046,1:11,1:1230,1:1477,1:16,1:206,1:30,1:318,1:6,1:765,1:8,1:87"
 8,"1,2",SM_V7_4,2449876,2449877,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_4%3A2443931%2D2449892&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_4%3A2449709%2D2500073&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,9.0,105.0,33.15384615,28.39243169,-2.67665,4.20119e-05,-0.3577094513,0.7725510704,26,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,2449876,2449877,"2443946
 2449724","2449877
 2500058","5_8S_rRNA
 protein_coding",-,T,"TTCTTTTTGGACAAGCGTGGCCACAGGATATCCCGTAGCTGCAATATGCGTTCAAGATGTCGATGTTCAAAGCAGTATGCAGTTCACATTAATTCACACAGTTGGCTGCACTCTTCATCGACACACGAGCTGAGTGATCCACCGCTTAAAGTt
-error","....((((((((..(((((((.((.((....)).)).))))).....))))))))))((((((((....(((.(((..((((((.((.............)).)))))))))))))))))))).......((((((......)))))).....
-error","-38.0
-error",1,2,"1:10,1:105,1:11,1:12,1:14,1:15,1:18,1:20,1:42,1:49,1:58,1:68,1:9"
+NA","....((((((((..(((((((.((.((....)).)).))))).....))))))))))((((((((....(((.(((..((((((.((.............)).)))))))))))))))))))).......((((((......)))))).....
+NA","-38.0
+NA",1,2,"1:10,1:105,1:11,1:12,1:14,1:15,1:18,1:20,1:42,1:49,1:58,1:68,1:9"
 9,"1,2,3,4,5",SM_V7_1,27744455,27744456,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A27693862%2D27745030&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A27740889%2D27757552&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,10.0,227.0,126.25,75.96284728,-1.23768,1.99872e-06,-0.200395338,0.3546219182,24,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,27744455,27744456,"27693877
 27740904","27745015
-27757537",protein_coding,-,C,error,error,error,1,5,"1:10,1:128,1:189,1:209,1:211,1:227,1:34,1:46,1:68,1:86,1:98"
+27757537",protein_coding,-,C,NA,NA,NA,1,5,"1:10,1:128,1:189,1:209,1:211,1:227,1:34,1:46,1:68,1:86,1:98"
 10,"1,2,3,4,5",SM_V7_6,18224420,18224421,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_6%3A18219890%2D18224479&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_6%3A18224333%2D18273353&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,13.0,206.0,71.08333333,62.23136714,-1.90876,1.60887e-06,-0.2571709799,0.5275161523,24,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,18224420,18224421,"18219905
 18224348","18224464
 18273338","5_8S_rRNA
 protein_coding",+,C,"AACTTTGAGCGGTGGATCACTCGGCTCGTGTGTCGATGAAGTATGCAGTGAATTAATGTGAACTGCATACATcTTTAATCTATTGATGGAAGGTATAAATAATTTCATGAGTTTGA
-error","....((((((.((((((((.(((((......)))))))).(((((((((..((....))..)))))))))((((((.(((....))).)))))).........)))))..))))))
-error","-31.299999237060547
-error",1,5,"1:117,1:13,1:14,1:177,1:18,1:206,1:27,1:28,1:39,1:55,1:68,1:91"
+NA","....((((((.((((((((.(((((......)))))))).(((((((((..((....))..)))))))))((((((.(((....))).)))))).........)))))..))))))
+NA","-31.299999237060547
+NA",1,5,"1:117,1:13,1:14,1:177,1:18,1:206,1:27,1:28,1:39,1:55,1:68,1:91"
 11,"1,2",SM_V7_3,16634570,16634571,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A16614568%2D16634841&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A16633855%2D16664659&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,6.0,309.0,61.08333333,85.25008146,-0.104885,0.000516861,-0.01631278291,0.03670891721,24,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,16634570,16634571,"16614583
 16633870","16634826
 16664644","LSU_rRNA_eukarya
-protein_coding",-,T,error,error,error,1,2,"1:157,1:18,1:21,1:30,1:309,1:38,1:55,1:6,1:74,1:8,1:9"
+protein_coding",-,T,NA,NA,NA,1,2,"1:157,1:18,1:21,1:30,1:309,1:38,1:55,1:6,1:74,1:8,1:9"
 12,"1,2,3,4,5",SM_V7_7H005,13290,13291,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_7H005%3A11850%2D13404&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_7H005%3A13087%2D31271&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,7.0,146.0,59.5,46.21056878,-1.38363,0.000463042,-0.1949823311,0.3837027662,24,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,13290,13291,"11865
 13102","13389
 31256","SSU_rRNA_eukarya
 protein_coding",+,A,"TTGTGTGACAGTAGTCAGTAAGTCAAGCGGGAGCCTATAATAAAAGAAATATGAATATACATAATCTAGCTACCGAATAGGGAGCCTAAGAAATGATGAACATATCCGAGAACGGCAGCAGGCGCGAAATTTACCCACTCCCAGCACGGGGAGGTAGTGACAAAAAATACGTATACGGGACTCAACTGaAGCTCCGTAATTCGAATGAGTACAATTTAAATCCTTTAACGAAGACTGATTGGAGGGCAAGTCTGGTGTCAGCAGCCGCGGTAACTTCAGCTCCAAAA
-error",".(((.((((............)))).)))(((((..........(((..((((......)))).))).(((.((......)))))...........((((..((.(((....((((.((.(((((.(.((((.(((.(((((......)))))(((...........)))...((((((..((....))..).)))))..((.(((.(((.....(((((...))))).....))).))).))))).)))).).))))).)).)))))))))..)))))))))....
-error","-68.19999694824219
-error",1,5,"1:100,1:12,1:133,1:14,1:146,1:41,1:50,1:52,1:62,1:7,1:8,1:89"
+NA",".(((.((((............)))).)))(((((..........(((..((((......)))).))).(((.((......)))))...........((((..((.(((....((((.((.(((((.(.((((.(((.(((((......)))))(((...........)))...((((((..((....))..).)))))..((.(((.(((.....(((((...))))).....))).))).))))).)))).).))))).)).)))))))))..)))))))))....
+NA","-68.19999694824219
+NA",1,5,"1:100,1:12,1:133,1:14,1:146,1:41,1:50,1:52,1:62,1:7,1:8,1:89"
 13,"1,2,3,4,5",SM_V7_1,86846015,86846016,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A86842877%2D86846217&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A86845815%2D86899630&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,8.0,306.0,88.0,78.55253019,-0.256356,7.93148e-05,-0.07515139422,0.1075991561,24,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,86846015,86846016,"86842892
 86845830","86846202
 86899615","LSU_rRNA_eukarya
-protein_coding",-,A,error,error,error,1,5,"1:110,1:111,1:130,1:135,1:19,1:27,1:306,1:37,1:42,1:44,1:8,1:87"
+protein_coding",-,A,NA,NA,NA,1,5,"1:110,1:111,1:130,1:135,1:19,1:27,1:306,1:37,1:42,1:44,1:8,1:87"
 14,"1,2,3,4,5",SM_V7_2,34778385,34778386,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_2%3A34744852%2D34778478&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_2%3A34778342%2D34803206&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,6.0,2517.0,853.9166667,822.8812651,-3.78206,0.00182688,-0.3870260563,1.031135002,24,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,34778385,34778386,"34744867
 34778357","34778463
 34803191","U6
 protein_coding","+
 -",T,"GTACTCGCTTCGGCGGTACATATACTGAtATTGCAACGATACAGAGAAGATTAGCATGGCCCTGCGCAAGGATGACAAGAAAAATCATGAAGCGTCCCATATTTCT
-error","((((.(((....))))))).....(((.(((((...))))))))...........((((....((((....((((.........))))...)))).))))......
-error","-19.0
-error",1,5,"1:11,1:1319,1:1339,1:1341,1:1474,1:1661,1:20,1:22,1:2517,1:526,1:6"
+NA","((((.(((....))))))).....(((.(((((...))))))))...........((((....((((....((((.........))))...)))).))))......
+NA","-19.0
+NA",1,5,"1:11,1:1319,1:1339,1:1341,1:1474,1:1661,1:20,1:22,1:2517,1:526,1:6"
 15,"1,2,3,4,5",SM_V7_1,55930954,55930955,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A55910471%2D55930970&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A55930868%2D55981381&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,10.0,580.0,155.8333333,168.7121974,-0.730774,1.75677e-05,-0.06089684072,0.2019755631,24,T4RNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,55930954,55930955,"55910486
 55930883","55930955
 55981366","protein_coding
 tRNA",-,C,"AGGGGGCACCCGGGTTTGAACTGGGGACTCCTCGATCTGCAGTCGAATGCTCTACCACTGAGCTATACTCCc
-error","..((((..(((((.......)))))..))))(((((.....)))))..((((.......)))).........
-error","-24.100000381469727
-error",1,5,"1:10,1:101,1:144,1:16,1:181,1:448,1:46,1:580,1:79,1:83,1:89,1:93"
+NA","..((((..(((((.......)))))..))))(((((.....)))))..((((.......)))).........
+NA","-24.100000381469727
+NA",1,5,"1:10,1:101,1:144,1:16,1:181,1:448,1:46,1:580,1:79,1:83,1:89,1:93"
 16,1,SM_V7_7,3880972,3880973,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_7%3A3864560%2D3881039&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_7%3A3880926%2D3928305&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,9.0,424.0,123.7272727,114.1817458,-1.76554,3.28244e-05,-0.1605030368,0.5075572534,22,T4RNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,3880972,3880973,"3864575
 3880941","3881024
 3928290","5S_rRNA
 protein_coding",+,C,"GCCGGCGACCATACCACGTTGAAACCACCGGcTCTCGTCCGATCACCGCAGTTAAGCAACGTTGAGCCCGGTCAGCACTTGCA
-error","(((((((((........))))......))))).......................((((.(((((......)))))..)))).
-error","-17.899999618530273
-error",1,1,"1:102,1:132,1:190,1:225,1:28,1:424,1:53,1:57,1:88,1:9"
+NA","(((((((((........))))......))))).......................((((.(((((......)))))..)))).
+NA","-17.899999618530273
+NA",1,1,"1:102,1:132,1:190,1:225,1:28,1:424,1:53,1:57,1:88,1:9"
 17,"1,2,3,4,5",SM_V7_3,16633885,16633886,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A16614568%2D16634841&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A16633855%2D16664659&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,13.0,564.0,180.2727273,145.5154418,-0.956176,1.60887e-06,-0.2520705822,0.3467830792,22,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,16633885,16633886,"16614583
 16633870","16634826
 16664644","LSU_rRNA_eukarya
-protein_coding",-,A,error,error,error,1,5,"1:13,1:136,1:160,1:190,1:219,1:233,1:275,1:43,1:53,1:564,1:97"
+protein_coding",-,A,NA,NA,NA,1,5,"1:13,1:136,1:160,1:190,1:219,1:233,1:275,1:43,1:53,1:564,1:97"
 18,"1,2",SM_V7_3,20420174,20420175,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A20401584%2D20420281&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A20420146%2D20425201&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,10.0,141.0,73.72727273,42.60194385,-16.1071,1.60887e-06,-1.582439432,4.601397082,22,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,20420174,20420175,"20401599
 20420161","20420266
 20425186","U6
 protein_coding","+
 -",A,"AAAAATATGGAACaCTTCACGATTTTGCGTGTCATCCTTGCGCAGGGGCCATGCTAATCTTCTCTGTATCGTTCCAATTTTAGTATATGTACTGCCGAAGCGGTT
-error",".(((((.((((((((.....((((..(((((...(((((....))))).))))).))))......))...))))))))))).........(((((....))))).
-error","-22.399999618530273
-error",1,2,"1:10,1:120,1:135,1:141,1:26,1:36,1:37,1:66,1:73,1:74,1:93"
+NA",".(((((.((((((((.....((((..(((((...(((((....))))).))))).))))......))...))))))))))).........(((((....))))).
+NA","-22.399999618530273
+NA",1,2,"1:10,1:120,1:135,1:141,1:26,1:36,1:37,1:66,1:73,1:74,1:93"
 19,"1,2,3,4,5",SM_V7_1,86093417,86093418,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A86071177%2D86093535&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A86093399%2D86110289&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,19.0,200.0,77.72727273,60.56265112,-3.36899,1.58897e-06,-0.3062726638,0.9685162612,22,T4RNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,86093417,86093418,"86071192
 86093414","86093520
 86110274","5S_rRNA
 protein_coding",+,G,"TTGgGCGACCATACTACGTTGAAAGCACCAGTTCTCGTTCGATCACCGCAGTTAAGCAACATTGGGCCCGGTCAGTACTTGCATGGCTGACCGGATGTCGCTGCCT
-error","...((((((...........((.(((....))).))(((((((....((......))...)))))))(((((((((.(......))))))))))..))))))....
-error","-30.600000381469727
-error",1,5,"1:131,1:180,1:19,1:200,1:25,1:28,1:38,1:45,1:55,1:67"
+NA","...((((((...........((.(((....))).))(((((((....((......))...)))))))(((((((((.(......))))))))))..))))))....
+NA","-30.600000381469727
+NA",1,5,"1:131,1:180,1:19,1:200,1:25,1:28,1:38,1:45,1:55,1:67"
 20,"1,2,3,4,5",SM_V7_1,58752195,58752196,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A58742354%2D58752719&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A58751534%2D58777083&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,7.0,42.0,20.18181818,10.68404232,-1.08789,0.000555237,-0.164515646,0.3152331552,22,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,58752195,58752196,"58742369
 58751549","58752704
 58777068","SSU_rRNA_eukarya
-protein_coding",-,A,error,error,error,1,5,"1:11,1:15,1:16,1:17,1:27,1:29,1:34,1:42,1:7,1:9"
+protein_coding",-,A,NA,NA,NA,1,5,"1:11,1:15,1:16,1:17,1:27,1:29,1:34,1:42,1:7,1:9"
 21,1,SM_V7_1,58752660,58752661,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A58742354%2D58752719&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A58751534%2D58777083&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,8.0,426.0,76.09090909,121.1621412,-0.0985213,0.000516861,-0.008878208435,0.02834811757,22,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,58752660,58752661,"58742369
 58751549","58752704
 58777068","SSU_rRNA_eukarya
-protein_coding",-,C,error,error,error,1,1,"1:10,1:15,1:175,1:24,1:40,1:426,1:8,1:99"
+protein_coding",-,C,NA,NA,NA,1,1,"1:10,1:15,1:175,1:24,1:40,1:426,1:8,1:99"
 22,"1,2,3,4,5",SM_V7_ZW,72903787,72903788,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_ZW%3A72886552%2D72903906&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_ZW%3A72903771%2D72908010&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,6.0,154.0,61.27272727,50.75984617,-4.14127,0.00182688,-0.6740411031,1.290986927,22,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,72903787,72903788,"72886567
 72903786","72903891
 72907995","U6
 protein_coding","+
 -",A,"GaAAATATTGAACGCTTCACGATTTTGCGTGTCATCCTTGCACGAGGGCCATGCTAATCTTCTCTGTATCGTTCCAATTTTAGTATATGTACCACCGAAGCTTAT
-error",".............(((((..((((..(((((...(((((....))))).))))).))))......(((.(((..............))))))....)))))....
-error","-16.399999618530273
-error",1,5,"1:103,1:11,1:147,1:154,1:20,1:22,1:30,1:39,1:6,1:62,1:80"
+NA",".............(((((..((((..(((((...(((((....))))).))))).))))......(((.(((..............))))))....)))))....
+NA","-16.399999618530273
+NA",1,5,"1:103,1:11,1:147,1:154,1:20,1:22,1:30,1:39,1:6,1:62,1:80"
 23,"1,2,3,4,5",SM_V7_7,17575263,17575264,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_7%3A17533565%2D17576196&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_7%3A17574825%2D17617761&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,5.0,87.0,37.18181818,24.68646365,-0.617447,0.00890646,-0.1384476864,0.2075797887,22,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,17575263,17575264,"17533580
 17574840","17576181
 17617746","SSU_rRNA_eukarya
 protein_coding","+
--",G,error,error,error,1,5,"1:10,1:29,1:35,1:36,1:41,1:43,1:46,1:5,1:72,1:87"
+-",G,NA,NA,NA,1,5,"1:10,1:29,1:35,1:36,1:41,1:43,1:46,1:5,1:72,1:87"
 24,1,SM_V7_3,49398805,49398806,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A49369469%2D49398934&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A49398427%2D49409374&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,15.0,835.0,303.7272727,278.1928994,-179.106,1.60887e-06,-16.3389012,51.4716233,22,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,49398805,49398806,"49369484
 49398442","49398919
 49409359","LSU_rRNA_eukarya
 protein_coding","+
--",T,error,error,error,1,1,"1:15,1:186,1:31,1:416,1:42,1:534,1:573,1:580,1:61,1:68,1:835"
+-",T,NA,NA,NA,1,1,"1:15,1:186,1:31,1:416,1:42,1:534,1:573,1:580,1:61,1:68,1:835"
 25,"1,2,3,4,5",SM_V7_1,39662661,39662662,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A39641727%2D39662680&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A39662533%2D39664173&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,8.0,230.0,55.81818182,70.67958196,-0.189848,0.000168894,-0.0172298983,0.05458666471,22,T4RNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,39662661,39662662,"39641742
 39662548","39662665
 39664158","5S_rRNA
 protein_coding",-,C,"CGCCGGCTACCACGGGACTGCATTTATTAACGTCGCTCCACTGCCTTGTGGCCCAACGTTGCTTAGCTGCGGTGATCCGACGAGAACCGGTGCTTTCAACGTGGTGTGGTGGCcCAC
-error",".((((.((((((((.((..(((((..((..(((((...((((((.....(((........))).....))))))...)))))..))..)))))..))..))))))).).))))....
-error","-43.79999923706055
-error",1,5,"1:10,1:13,1:164,1:18,1:20,1:230,1:29,1:35,1:79,1:8"
+NA",".((((.((((((((.((..(((((..((..(((((...((((((.....(((........))).....))))))...)))))..))..)))))..))..))))))).).))))....
+NA","-43.79999923706055
+NA",1,5,"1:10,1:13,1:164,1:18,1:20,1:230,1:29,1:35,1:79,1:8"
 26,"1,2,3,4,5",SM_V7_5,20172399,20172400,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A20147749%2D20172464&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A20172284%2D20175704&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,7.0,85.0,20.72727273,21.4776455,-0.202852,0.000757497,-0.05213723617,0.07239473394,22,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,20172399,20172400,"20147764
 20172299","20172449
 20175689","Metazoa_SRP
 protein_coding","+
 -",A,"AGCAGACTCTCCCCACTCTCGGCCGTACCAGGGCATTTGGGGGCACTTTTTTTAACATGAGCACCCATATGCCAGAACTCCCGGTCACACGAAATCCCATaCCTTGGCCTCCAAGTAGCTAGATTACAGGCGCACGCCACCACGCCCAGC
-error","....................(((((......(((((.((((.((................)).)))).)))))........)))))......((((...(((.((((...)))))))....))))...((((..........))))....
-error","-32.29999923706055
-error",1,5,"1:10,1:11,1:17,1:18,1:27,1:7,1:8,1:85"
+NA","....................(((((......(((((.((((.((................)).)))).)))))........)))))......((((...(((.((((...)))))))....))))...((((..........))))....
+NA","-32.29999923706055
+NA",1,5,"1:10,1:11,1:17,1:18,1:27,1:7,1:8,1:85"
 27,1,SM_V7_1,58751783,58751784,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A58742354%2D58752719&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A58751534%2D58777083&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,8.0,74.0,30.81818182,21.04893943,-0.403452,0.000168894,-0.05668021694,0.1263421984,22,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,58751783,58751784,"58742369
 58751549","58752704
 58777068","SSU_rRNA_eukarya
-protein_coding",-,C,error,error,error,1,1,"1:10,1:15,1:21,1:23,1:33,1:36,1:49,1:60,1:74,1:8"
+protein_coding",-,C,NA,NA,NA,1,1,"1:10,1:15,1:21,1:23,1:33,1:36,1:49,1:60,1:74,1:8"
 28,1,SM_V7_2,41106935,41106936,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_2%3A41106878%2D41107205&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_2%3A41106919%2D41107483&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,6.0,66.0,22.81818182,19.35232277,-0.333156,0.00310023,-0.0805491813,0.1231038157,22,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,41106935,41106936,"41106893
 41106934","41107190
 41107468","LSU_rRNA_eukarya
 protein_coding","+
 -",A,"TCAAGGTGAACAGCCTCTGGCAATTGAACAATGTAGGTAAGGaAAGTCGGCAAATTGGATCCGTAACTTCGCGAGGAGAATTGGCTGTGGGGGCCGAGTCAGACAGGCCGAGATCAGATACGTGTCGGTCCAGTTGGGGACTGGTTTCTTTGTTGCTTTGTGTGCTTCGGTGCGCGTTGTGGTGAGGTTACTGGACTCTGACCCGGGTCGATCGTGGGCGGTTTCAGCTGTTAGTGTCGTGCAGCTAGCAACGCGCGAGGACATATTCCACGTTGCGTCAAGCGGCTGTACTTCCAT
-error","...((((.....))))((((((.(((((...(((.....(.((...(((((...((((((((((((((((((.(.((..........((.(.((((((.((.(((((.(((.(..(((.((....((((((......)))))))).))).).))).))))).)).)))))).).)))).).)))))))))).))).))))).....))))))).)..)))..))))).))))))....((((((((.((.(((((((.(((.....))).)).)))))...))))))))))......
-error","-95.0
-error",1,1,"1:11,1:16,1:20,1:23,1:36,1:52,1:6,1:66,1:7,1:8"
+NA","...((((.....))))((((((.(((((...(((.....(.((...(((((...((((((((((((((((((.(.((..........((.(.((((((.((.(((((.(((.(..(((.((....((((((......)))))))).))).).))).))))).)).)))))).).)))).).)))))))))).))).))))).....))))))).)..)))..))))).))))))....((((((((.((.(((((((.(((.....))).)).)))))...))))))))))......
+NA","-95.0
+NA",1,1,"1:11,1:16,1:20,1:23,1:36,1:52,1:6,1:66,1:7,1:8"
 29,1,SM_V7_7,17575611,17575612,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_7%3A17533565%2D17576196&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_7%3A17574825%2D17617761&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,4.0,31.0,15.0,8.852323783,-0.336099,0.00515917,-0.06459844992,0.1103028392,22,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,17575611,17575612,"17533580
 17574840","17576181
 17617746","SSU_rRNA_eukarya
 protein_coding","+
--",A,error,error,error,1,1,"1:11,1:12,1:19,1:20,1:22,1:27,1:31,1:4,1:6,1:7"
+-",A,NA,NA,NA,1,1,"1:11,1:12,1:19,1:20,1:22,1:27,1:31,1:4,1:6,1:7"
 30,"1,2",SM_V7_4,1708662,1708663,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_4%3A1695584%2D1708702&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_4%3A1708600%2D1715777&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,6.0,80.0,21.09090909,19.41159234,-5.69275,0.00485496,-0.5718897554,1.621085557,22,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,1708662,1708663,"1695599
 1708615","1708687
 1715762","protein_coding
 tRNA","+
 -",T,"AGCAGAGTGGCGCAGTGGAAGCGTGCTGGGCCCATAACCCAGAGGTCtGTGGATCGAAACCACGCTCTGCTA
-error","(((((((((((.(((((......))))).))((((((((....))).)))))..........))))))))).
-error","-29.299999237060547
-error",1,2,"1:13,1:15,1:16,1:17,1:21,1:24,1:6,1:80"
+NA","(((((((((((.(((((......))))).))((((((((....))).)))))..........))))))))).
+NA","-29.299999237060547
+NA",1,2,"1:13,1:15,1:16,1:17,1:21,1:24,1:6,1:80"
 31,1,SM_V7_ZW,56680410,56680411,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_ZW%3A56592774%2D56680562&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_ZW%3A56680370%2D56689629&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,6.0,47.0,23.72727273,13.33546815,-0.608117,0.00182688,-0.1076909396,0.1930618357,22,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,56680410,56680411,"56592789
 56680385","56680547
 56689614","SSU_rRNA_eukarya
 protein_coding","+
 -",A,"CTTTCGCAGGCTCACCTACGGAAACaTTGTTACGACTTTTACTTCCTCCAAATAGTCAAATAAAGCTATCTTCTCAGCATCAATCGAGCGGCCAAGCCTTTACAATGACGTCAATCCAACGACCTCACTAAACCATTCAATCGGTAGTAGCGATGGGTGGTG
-error",".(((((.(((....))).))))).(((((((((((((................)))).......(((........)))...........(((...))).......(((.(((........))).)))....(((........))).))))))))).......
-error","-30.5
-error",1,1,"1:11,1:16,1:18,1:19,1:24,1:26,1:38,1:45,1:47,1:6"
+NA",".(((((.(((....))).))))).(((((((((((((................)))).......(((........)))...........(((...))).......(((.(((........))).)))....(((........))).))))))))).......
+NA","-30.5
+NA",1,1,"1:11,1:16,1:18,1:19,1:24,1:26,1:38,1:45,1:47,1:6"
 32,"1,2,3,4,5",SM_V7_2,41025467,41025468,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_2%3A41025026%2D41025531&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_2%3A41025336%2D41025633&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,28.0,140.0,71.45454545,36.39021756,-0.684484,1.60887e-06,-0.1293998448,0.207912131,22,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,41025467,41025468,"41025041
 41025351","41025516
 41025618",LSU_rRNA_eukarya,"+
 -",A,"ATCCGACTGTCTAATTAAAACAAAGCATTGCGATGTCCACTGATTGGTTTTGACGCAATGTGATTTCTGTCCGGTGCTCTGAATGTCAAAGTGAAGAAATTCAACCAAGCGCGGGTaAAATGTGCTTTGAACCAAAATACAATTTCGTTCCCATTTCACTGAATAAGTAAAGAAACAATGATAGCAGTGGTATTTCATTTGCGCTGGACACCGAAGCACCCAGCTCCCACCTATACTACATCCATCATGTCTCCTCACAAAGTCGGA
-error",".(((((((................((((((((....(((.....)))......))))))))(((....))).(((....(((((.((........)).))))))))(((((((.......))))))).((((.(((......))).)))).......(((.....)))...((.(((.((((.(..(((((((.......(.(((((............))))).)......)))))))..).))))))).)).......)))))))
-error","-57.20000076293945
-error",1,5,"1:106,1:128,1:140,1:28,1:38,1:45,1:46,1:58,1:66,1:86"
+NA",".(((((((................((((((((....(((.....)))......))))))))(((....))).(((....(((((.((........)).))))))))(((((((.......))))))).((((.(((......))).)))).......(((.....)))...((.(((.((((.(..(((((((.......(.(((((............))))).)......)))))))..).))))))).)).......)))))))
+NA","-57.20000076293945
+NA",1,5,"1:106,1:128,1:140,1:28,1:38,1:45,1:46,1:58,1:66,1:86"
 33,"1,2,3,4,5",SM_V7_2,17430975,17430976,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_2%3A17387728%2D17431157&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_2%3A17430937%2D17431800&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,6.0,250.0,97.09090909,79.15744328,-1.70891,0.00244991,-0.2389665691,0.4842437464,22,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,17430975,17430976,"17387743
 17430952","17431142
 17431785","U2
 protein_coding","+
 -",T,"ATCGCTTCTCGGCTCTCTGAGCTtAGATCATGTGTAGTATCTGTTTTCCGCAGTGTAGTTTCTGCAACGGTCTTTGAACTGAGACCAATGAAATTACCTGTATTTTTCACCTATGGACGGGTGCTGTGAGCTTACTTAACCCCGACCACGGGTCGGCCTTGTATTGTATCCGTGGCTAGAAGCATGTATT
-error","...(((((((((.....((((((((.........((((((((((((...((((.((((((((......((((((......))))))...)))))))))))).............)))))))))))))))))))).......))).(((((((((((.......))).))))))))..)))))).......
-error","-56.0
-error",1,5,"1:152,1:164,1:199,1:250,1:6,1:64,1:69,1:76"
+NA","...(((((((((.....((((((((.........((((((((((((...((((.((((((((......((((((......))))))...)))))))))))).............)))))))))))))))))))).......))).(((((((((((.......))).))))))))..)))))).......
+NA","-56.0
+NA",1,5,"1:152,1:164,1:199,1:250,1:6,1:64,1:69,1:76"
 34,1,SM_V7_3,1016829,1016830,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A1016707%2D1017302&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A968234%2D1045954&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,6.0,47.0,23.90909091,10.82467338,-0.488521,0.00182688,-0.1086988188,0.1886662157,22,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,1016829,1016830,"1016722
 968249","1017287
 1045939","SSU_rRNA_eukarya
 protein_coding","+
--",A,error,error,error,1,1,"1:11,1:18,1:21,1:22,1:27,1:32,1:34,1:47,1:6"
+-",A,NA,NA,NA,1,1,"1:11,1:18,1:21,1:22,1:27,1:32,1:34,1:47,1:6"
 35,"1,2,3,4,5",SM_V7_1,86405547,86405548,[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A86405150%2D86405734&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv),+,5.0,21.0,12.18181818,5.407371767,-0.267214,0.00074088,-0.05398096846,0.08401299904,22,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,86405547,86405548,86405165,"86405719
-86423783",protein_coding,+,T,error,error,error,1,5,"1:11,1:13,1:15,1:17,1:21,1:5,1:7,1:8,1:9"
+86423783",protein_coding,+,T,NA,NA,NA,1,5,"1:11,1:13,1:15,1:17,1:21,1:5,1:7,1:8,1:9"
 36,"1,2,3,4,5",SM_V7_1,4363347,4363348,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A4363132%2D4363370&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A4363291%2D4394411&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,5.0,48.0,24.45454545,15.35260497,-0.821344,0.00765269,-0.143785767,0.2434220914,22,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,4363347,4363348,"4363147
 4363306","4363355
@@ -271,50 +271,50 @@ protein_coding","+
 Hammerhead_1|hammerhead-type1
 protein_coding","+
 -",C,"TGAACTGGACGGCCGTTTCGTCCTATTATGGGACTCCTCAGcAGTGCGC
-error",".....((.((.((.(....((((((...))))))....).)).)).)).
-error","-11.0
-error",1,5,"1:13,1:14,1:27,1:31,1:34,1:39,1:45,1:48,1:5,1:6,1:7"
+NA",".....((.((.((.(....((((((...))))))....).)).)).)).
+NA","-11.0
+NA",1,5,"1:13,1:14,1:27,1:31,1:34,1:39,1:45,1:48,1:5,1:6,1:7"
 37,"1,2,3,4,5",SM_V7_ZW,791316,791317,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_ZW%3A774636%2D791458&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_ZW%3A790554%2D864597&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,5.0,38.0,16.0,10.06343516,-2.74342,0.00936522,-0.3759695062,0.8021890767,22,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,791316,791317,"774651
 790569","791443
 864582","SSU_rRNA_eukarya
 protein_coding","+
--",C,error,error,error,1,5,"1:12,1:14,1:17,1:20,1:25,1:26,1:38,1:5,1:9"
+-",C,NA,NA,NA,1,5,"1:12,1:14,1:17,1:20,1:25,1:26,1:38,1:5,1:9"
 38,1,SM_V7_7,2371022,2371023,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_7%3A2321037%2D2371152&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_7%3A2371006%2D2374258&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,24.0,652.0,180.0,167.876578,-1.85019e-05,1.58897e-06,-2.288020476e-06,5.619138684e-06,22,T4RNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,2371022,2371023,"2321052
 2371021","2371137
 2374243","5S_rRNA
 protein_coding","+
 -",C,"TcCAGCGACCATAGCACGTTGAAAACACCGGTTCTCGTCCGATCACCGCAGTTAAGCAACGTTGAGCCCGATCAGTACTTGCATGGGTGATCAAATTCATAAATCATTCACTTAAT
-error",".(((((((.......((((((..(((..((((..((....))..))))..)))...))))))(((......)))....)))).)))((((......))))................
-error","-20.200000762939453
-error",1,1,"1:102,1:135,1:229,1:24,1:246,1:270,1:652,1:67,1:80,1:83,1:92"
+NA",".(((((((.......((((((..(((..((((..((....))..))))..)))...))))))(((......)))....)))).)))((((......))))................
+NA","-20.200000762939453
+NA",1,1,"1:102,1:135,1:229,1:24,1:246,1:270,1:652,1:67,1:80,1:83,1:92"
 39,"1,2,3,4,5",SM_V7_7,523566,523567,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_7%3A519741%2D523687&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_7%3A523504%2D537252&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,4.0,127.0,30.27272727,34.99633983,-0.479443,0.00042562,-0.07983865129,0.1433417658,22,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,523566,523567,"519756
 523519","523672
 537237","5_8S_rRNA
 protein_coding",-,G,"TGACCCTCGGACAGGCGTGGCCACAAAATATCCCGTAGCCACAATATgCGTTCAAGATGTCGATATTCAAAGCAGTATGCAGTTCACATTAATTCACACAGTTGGCTGCACTCTTCATCGACACACGAGCCGAGTGATCCACCGCTCAAACTT
-error","....(((.....))).(((((.((..........)).))))).......((((..(.(((((((.......(.((..(((((((.((.............)).)))))))..)).)))))))))..)))).(((((......)))))......
-error","-33.599998474121094
-error",1,5,"1:12,1:127,1:13,1:16,1:19,1:29,1:30,1:4,1:68,1:7,1:8"
+NA","....(((.....))).(((((.((..........)).))))).......((((..(.(((((((.......(.((..(((((((.((.............)).)))))))..)).)))))))))..)))).(((((......)))))......
+NA","-33.599998474121094
+NA",1,5,"1:12,1:127,1:13,1:16,1:19,1:29,1:30,1:4,1:68,1:7,1:8"
 40,"1,2,3,4,5",SM_V7_3,38885576,38885577,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A38779914%2D38885634&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A38885506%2D38895535&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,19.0,265.0,97.81818182,61.32301686,-4.84071,1.60887e-06,-0.6626847332,1.401686802,22,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,38885576,38885577,"38779929
 38885521","38885619
 38895520","U3
 protein_coding",-,A,"ACCGCACTGATCATCATCGCGGTTGGTTGGCCAGGGTCAAGTTTGTTTGACGTCCaGGTGATACGTACTATAGGACTGATCCCTAGAAGTACGATCTC
-error","(((((..(((...)))..)))))......(((.(((((((......)))))..)).)))(((.((((((.((((.......))))..)))))))))..
-error","-28.799999237060547
-error",1,5,"1:100,1:121,1:135,1:19,1:265,1:51,1:59,1:65,1:81,1:83,1:97"
+NA","(((((..(((...)))..)))))......(((.(((((((......)))))..)).)))(((.((((((.((((.......))))..)))))))))..
+NA","-28.799999237060547
+NA",1,5,"1:100,1:121,1:135,1:19,1:265,1:51,1:59,1:65,1:81,1:83,1:97"
 41,"1,2,3,4,5",SM_V7_3,38885526,38885527,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A38779914%2D38885634&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A38885506%2D38895535&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,7.0,57.0,26.63636364,13.9692697,-1.6235,0.00042562,-0.2372018296,0.4698251188,22,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,38885526,38885527,"38779929
 38885521","38885619
 38895520","U3
 protein_coding",-,A,"ACCGCaCTGATCATCATCGCGGTTGGTTGGCCAGGGTCAAGTTTGTTTGACGTCCAGGTGATACGTACTATAGGACTGATCCCTAGAAGTACGATCTC
-error","(((((..(((...)))..)))))......(((.(((((((......)))))..)).)))(((.((((((.((((.......))))..)))))))))..
-error","-28.799999237060547
-error",1,5,"1:13,1:21,1:25,1:26,1:31,1:34,1:40,1:57,1:7,1:8"
+NA","(((((..(((...)))..)))))......(((.(((((((......)))))..)).)))(((.((((((.((((.......))))..)))))))))..
+NA","-28.799999237060547
+NA",1,5,"1:13,1:21,1:25,1:26,1:31,1:34,1:40,1:57,1:7,1:8"
 42,"1,2,3,4,5",SM_V7_5,420756,420757,[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A411716%2D425059&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv),+,3.0,14.0,9.0,3.618136135,-0.118433,0.00247621,-0.02456892119,0.04235537825,22,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,420756,420757,411731,"425044
-430674",protein_coding,+,G,error,error,error,1,5,"1:12,1:13,1:14,1:3,1:5,1:6,1:7,1:9"
+430674",protein_coding,+,G,NA,NA,NA,1,5,"1:12,1:13,1:14,1:3,1:5,1:6,1:7,1:9"
 43,1,SM_V7_5,9458386,9458387,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A9392587%2D9458499&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A9434298%2D9466287&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A9458350%2D9492474&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,6.0,29.0,13.42857143,7.461465633,-0.125616,0.00299811,-0.01749178031,0.0441533912,21,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,9458386,9458387,"9392602
@@ -324,15 +324,15 @@ error",1,5,"1:13,1:21,1:25,1:26,1:31,1:34,1:40,1:57,1:7,1:8"
 9492459","5S_rRNA
 protein_coding","+
 -",A,"GCCGGCGACCATACCACGTTGaAAGCACCGGTTCTTGTCCGATCACCGCAGTTAAGCAACGTCGGGTCCGGTCAATACTTGCATGGGTGACCGGCTGGGAATACCGGGTATCGTCGGCT
-error","((((((((.....((((((((...((..((((((......))..))))..))....)))))).))..(((((((...(......)..)))))))((((.....))))...)))))))).
-error","-43.599998474121094
-error",1,1,"1:15,1:18,1:29,1:6,1:8,1:9"
+NA","((((((((.....((((((((...((..((((((......))..))))..))....)))))).))..(((((((...(......)..)))))))((((.....))))...)))))))).
+NA","-43.599998474121094
+NA",1,1,"1:15,1:18,1:29,1:6,1:8,1:9"
 44,"1,2",SM_V7_3,49398875,49398876,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A49369469%2D49398934&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A49398427%2D49409374&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,10.0,831.0,371.6,357.336592,-167.166,1.99872e-06,-16.75541257,50.13699601,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,49398875,49398876,"49369484
 49398442","49398919
 49409359","LSU_rRNA_eukarya
 protein_coding","+
--",C,error,error,error,1,2,"1:10,1:14,1:16,1:478,1:72,1:729,1:771,1:779,1:831"
+-",C,NA,NA,NA,1,2,"1:10,1:14,1:16,1:478,1:72,1:729,1:771,1:779,1:831"
 45,"1,2,3,4,5",SM_V7_1,44714348,44714349,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A44709980%2D44714368&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A44714260%2D44718477&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,11.0,116.0,38.7,31.20272424,-2.19762,1.60887e-06,-0.3496105122,0.6482776024,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,44714348,44714349,"44709995
 44714275","44714353
@@ -340,102 +340,102 @@ protein_coding","+
 Hammerhead_1|Hammerhead_HH9|hammerhead-type1
 protein_coding","+
 -",A,"TTAATCGAGGATACGCACTGCTGAGGAGTCCCATAATAGGACGAAACGGCCGTCCAGTGCTTCCAGGTTTTTCaTGGT
-error","..((((..(((...(((((((((....((((.......))))....)))).....))))).))).)))).........
-error","-19.200000762939453
-error",1,5,"1:11,1:116,1:16,1:24,1:25,1:26,1:29,1:36,1:79"
+NA","..((((..(((...(((((((((....((((.......))))....)))).....))))).))).)))).........
+NA","-19.200000762939453
+NA",1,5,"1:11,1:116,1:16,1:24,1:25,1:26,1:29,1:36,1:79"
 46,1,SM_V7_5,15673095,15673096,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A15672911%2D15673295&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A15673072%2D15673354&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,7.0,91.0,34.5,24.9849955,-2.20699e-06,0.000398649,3.969937824e-05,0.0001196544148,20,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,15673095,15673096,"15672926
 15673087","15673280
 15673339","SSU_rRNA_eukarya
 protein_coding",+,T,"ATGGCTACtACATCCAAGGACGGCAGCAGGCGCGAAAATTACCCACTCTTGGTACGGGGAGGTAGTAATGAAAAATACATATACGGGATTCAATCGAGGCTCCGTAATTCGAATGAGTACAATTTAAATCCTCTAACGAGGACCAATCAGAAGGCAAGTCTGATGCCAGCAGCCGCGGTAACTCCAGCTTCAAAGCGTAAGCGTAATACTCGAGTTAAATGTCTATCTCCACAAAACCCTATACCGATATAA
-error","....................((((.((.(((......((((((..(((.......)))..))))))...............((((((.(((....)))..))))))((((....))))..........(((((....)))))...((((((.......))))))))).)).))))(((((((((.((.......((....))......)).))))..........................)))))......
-error","-53.20000076293945
-error",1,1,"1:13,1:15,1:19,1:23,1:27,1:41,1:45,1:64,1:7,1:91"
+NA","....................((((.((.(((......((((((..(((.......)))..))))))...............((((((.(((....)))..))))))((((....))))..........(((((....)))))...((((((.......))))))))).)).))))(((((((((.((.......((....))......)).))))..........................)))))......
+NA","-53.20000076293945
+NA",1,1,"1:13,1:15,1:19,1:23,1:27,1:41,1:45,1:64,1:7,1:91"
 47,"1,2,3,4,5",SM_V7_5,7906301,7906302,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A7895468%2D7906425&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A7906276%2D7915631&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,7.0,42.0,21.1,10.9402925,-0.364415,0.000463042,-0.1309902311,0.1635022,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,7906301,7906302,"7895483
 7906291","7906410
 7915616","5S_rRNA
 protein_coding","+
 -",A,"AGCCGGCGACaCCCGGTATTCCCCGCCGGTCACCCATGCAAGTACTGACCGGGCCCAACGTTGCGTAACTGCGGTGATTGGACGAGAACCGGTGCTTTCAACGTGGTATGGTCACCGGC
-error",".(((((.(((..(((((.(((....(((((((((...(((..(((..(.((.......)).)..)))..))))))))))))..))).)))))((((........))))..))).)))))
-error","-41.900001525878906
-error",1,5,"1:12,1:14,1:20,1:24,1:30,1:34,1:42,1:7,1:8"
+NA",".(((((.(((..(((((.(((....(((((((((...(((..(((..(.((.......)).)..)))..))))))))))))..))).)))))((((........))))..))).)))))
+NA","-41.900001525878906
+NA",1,5,"1:12,1:14,1:20,1:24,1:30,1:34,1:42,1:7,1:8"
 48,"1,2,3,4,5",SM_V7_2,41107154,41107155,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_2%3A41106878%2D41107205&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_2%3A41106919%2D41107483&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,5.0,28.0,16.4,8.321057625,-0.645677,0.00890646,-0.136212102,0.2072250754,20,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,41107154,41107155,"41106893
 41106934","41107190
 41107468","LSU_rRNA_eukarya
 protein_coding","+
 -",C,"TCAAGGTGAACAGCCTCTGGCAATTGAACAATGTAGGTAAGGAAAGTCGGCAAATTGGATCCGTAACTTCGCGAGGAGAATTGGCTGTGGGGGCCGAGTCAGACAGGCCGAGATCAGATACGTGTCGGTCCAGTTGGGGACTGGTTTCTTTGTTGCTTTGTGTGCTTCGGTGCGCGTTGTGGTGAGGTTACTGGACTCTGACCCGGGTCGATCGTGGGCGGTTTCAGCTGTTAGTGTCGTGCAGCTAGCAACGCGCGAGGAcATATTCCACGTTGCGTCAAGCGGCTGTACTTCCAT
-error","...((((.....))))((((((.(((((...(((.....(.((...(((((...((((((((((((((((((.(.((..........((.(.((((((.((.(((((.(((.(..(((.((....((((((......)))))))).))).).))).))))).)).)))))).).)))).).)))))))))).))).))))).....))))))).)..)))..))))).))))))....((((((((.((.(((((((.(((.....))).)).)))))...))))))))))......
-error","-95.0
-error",1,5,"1:11,1:15,1:22,1:26,1:27,1:28,1:5,1:7,1:8"
+NA","...((((.....))))((((((.(((((...(((.....(.((...(((((...((((((((((((((((((.(.((..........((.(.((((((.((.(((((.(((.(..(((.((....((((((......)))))))).))).).))).))))).)).)))))).).)))).).)))))))))).))).))))).....))))))).)..)))..))))).))))))....((((((((.((.(((((((.(((.....))).)).)))))...))))))))))......
+NA","-95.0
+NA",1,5,"1:11,1:15,1:22,1:26,1:27,1:28,1:5,1:7,1:8"
 49,1,SM_V7_1,11490090,11490091,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A11464388%2D11490106&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A11490003%2D11551360&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,7.0,39.0,25.0,9.507891459,-0.985639,0.000847401,-0.09847960207,0.2957199074,20,T4RNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,11490090,11490091,"11464403
 11490018","11490091
 11551345","protein_coding
 tRNA","+
 -",C,"TGCCGGGACCCGGGATCGAACCGGGGACATTTAGATCTTCAGTCTAACGCTCTCCCAACTGAGCTACTCCGGc
-error",".((((((.(((((.......))))).....((((((.....)))))).((((........))))...))))))
-error","-27.799999237060547
-error",1,1,"1:12,1:23,1:24,1:25,1:27,1:31,1:38,1:39,1:7"
+NA",".((((((.(((((.......))))).....((((((.....)))))).((((........))))...))))))
+NA","-27.799999237060547
+NA",1,1,"1:12,1:23,1:24,1:25,1:27,1:31,1:38,1:39,1:7"
 50,"1,2,3,4,5",SM_V7_ZW,56830730,56830731,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_ZW%3A56810941%2D56830769&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_ZW%3A56830661%2D56836230&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,8.0,63.0,29.0,18.38477631,-0.634985,0.000155166,-0.1437877148,0.2037143189,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,56830730,56830731,"56810956
 56830676","56830754
 56836215","Hammerhead_1
 Hammerhead_1|Hammerhead_HH9|hammerhead-type1
 protein_coding",-,C,"CCATCGAAAACCTGGAAGCACTGGACGGCCGTTTCGTCCTATTATGGGACTCCTcAGCAGTGCGCATCCTGGGTCCTG
-error",".........(((((((.((((((...((..(((((((......))))))).))....))))))...))).))))....
-error","-22.299999237060547
-error",1,5,"1:10,1:15,1:17,1:20,1:27,1:33,1:38,1:59,1:63,1:8"
+NA",".........(((((((.((((((...((..(((((((......))))))).))....))))))...))).))))....
+NA","-22.299999237060547
+NA",1,5,"1:10,1:15,1:17,1:20,1:27,1:33,1:38,1:59,1:63,1:8"
 51,"1,2",SM_V7_2,44999031,44999032,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_2%3A44983437%2D44999146&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_2%3A44998459%2D45038396&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,6.0,74.0,30.2,20.79326814,-0.60154,0.00499203,-0.1687056208,0.2271402917,20,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,44999031,44999032,"44983452
 44998474","44999131
 45038381","LSU_rRNA_eukarya
-protein_coding",+,T,error,error,error,1,2,"1:10,1:13,1:17,1:22,1:23,1:41,1:42,1:54,1:6,1:74"
+protein_coding",+,T,NA,NA,NA,1,2,"1:10,1:13,1:17,1:22,1:23,1:41,1:42,1:54,1:6,1:74"
 52,"1,2,3,4,5",SM_V7_5,91847,91848,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A71281%2D100387&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A91815%2D91918&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,11.0,28.0,19.2,6.193545027,-0.405381,1.60887e-06,-0.1153576365,0.1515748393,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,91847,91848,"71296
 91830","100372
 91903","protein_coding
 tRNA","+
 -",G,"GCCCGGCTAGCTCAGTCgGTAGAGCATGAGACTCTTAATCTCAGGGTCGTGGGTTCGAGCCCCCCGTCGAGCG
-error","((.((((..((((........)))).(((((.......)))))(((....((((....))))))))))).)).
-error","-23.799999237060547
-error",1,5,"1:11,1:12,1:13,1:16,1:19,1:25,1:27,1:28"
+NA","((.((((..((((........)))).(((((.......)))))(((....((((....))))))))))).)).
+NA","-23.799999237060547
+NA",1,5,"1:11,1:12,1:13,1:16,1:19,1:25,1:27,1:28"
 53,1,SM_V7_7,523583,523584,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_7%3A519741%2D523687&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_7%3A523504%2D537252&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,6.0,60.0,32.1,21.09715621,-2.05231e-06,0.00485496,0.0004858854129,0.001456359422,20,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,523583,523584,"519756
 523519","523672
 537237","5_8S_rRNA
 protein_coding",-,A,"TGACCCTCGGACAGGCGTGGCCACAAAATATCCCGTAGCCACAATATGCGTTCAAGATGTCGATaTTCAAAGCAGTATGCAGTTCACATTAATTCACACAGTTGGCTGCACTCTTCATCGACACACGAGCCGAGTGATCCACCGCTCAAACTT
-error","....(((.....))).(((((.((..........)).))))).......((((..(.(((((((.......(.((..(((((((.((.............)).)))))))..)).)))))))))..)))).(((((......)))))......
-error","-33.599998474121094
-error",1,1,"1:11,1:12,1:14,1:16,1:43,1:44,1:56,1:59,1:6,1:60"
+NA","....(((.....))).(((((.((..........)).))))).......((((..(.(((((((.......(.((..(((((((.((.............)).)))))))..)).)))))))))..)))).(((((......)))))......
+NA","-33.599998474121094
+NA",1,1,"1:11,1:12,1:14,1:16,1:43,1:44,1:56,1:59,1:6,1:60"
 54,1,SM_V7_7,14951933,14951934,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_7%3A14931333%2D14952103&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_7%3A14951917%2D14953757&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,6.0,1049.0,213.3,327.3707531,-3.97031e-06,0.00499203,0.0005495279086,0.001488350518,20,T4RNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,14951933,14951934,"14931348
 14951932","14952088
 14953742","U1
 protein_coding","+
 -",G,"AgACCTGGCGCCGGGTTCAGGGTGATCAGGAATGCTCTGACCCCGGGTGGAGCCTCCACCCTTGCACTTCGGTGGGTTGAAACTCGCGACGAACCCTAATTGGGTGCGCTCGGGCGTGTAGTTTTTGTCAGTGGGGAGGTCTCACAGTCCTCCCTT
-error","...((((((((.(((.((((((((........)))))))).)))(((((((...))))))).......(((((((((....))))))..)))((((.....)))))))).))))..................(((((((.((...)).))))))).
-error","-64.19999694824219
-error",1,1,"1:1049,1:11,1:12,1:25,1:337,1:550,1:6,1:60,1:75,1:8"
+NA","...((((((((.(((.((((((((........)))))))).)))(((((((...))))))).......(((((((((....))))))..)))((((.....)))))))).))))..................(((((((.((...)).))))))).
+NA","-64.19999694824219
+NA",1,1,"1:1049,1:11,1:12,1:25,1:337,1:550,1:6,1:60,1:75,1:8"
 55,1,SM_V7_1,66212508,66212509,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A66195130%2D66212580&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A66212479%2D66236443&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,13.0,903.0,190.0,260.033844,-5.72394e-06,1.16181e-06,-9.26880924e-07,2.027610206e-06,20,T4RNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,66212508,66212509,"66195145
 66212494","66212565
 66236428","protein_coding
 tRNA","+
 -",G,"GGCCTCGTAGTGTAgGGTGAGCACTTCGGACTCTGAATCCGGCGACCCAAGTTCGAATCTTGGCGAGGCCT
-error","((((((((....((((((..(.((((.((.(.(((....))).).)).)))).)..)))))))))))))).
-error","-27.299999237060547
-error",1,1,"1:120,1:13,1:143,1:28,1:406,1:58,1:63,1:80,1:86,1:903"
+NA","((((((((....((((((..(.((((.((.(.(((....))).).)).)))).)..)))))))))))))).
+NA","-27.299999237060547
+NA",1,1,"1:120,1:13,1:143,1:28,1:406,1:58,1:63,1:80,1:86,1:903"
 56,"1,2,3,4,5",SM_V7_1,11012364,11012365,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A10980805%2D11012426&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A11012316%2D11026360&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,6.0,79.0,42.5,22.37967828,-1.50534,0.00299811,-0.4046990816,0.532075843,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,11012364,11012365,"10980820
 11012331","11012411
 11026345","protein_coding
 tRNA","+
 -",A,"TAATGGAGGTGGGATTCAAACCCATGCCCTTTCaGACTGGTGCCTTAAACCAGCGCCTTAGACCGCTCGGCCACTCCACC
-error","...((((((((((.......)))))...........(((((.......))))).(((...........)))..)))))..
-error","-20.299999237060547
-error",1,5,"1:19,1:27,1:29,1:35,1:42,1:55,1:6,1:65,1:68,1:79"
+NA","...((((((((((.......)))))...........(((((.......))))).(((...........)))..)))))..
+NA","-20.299999237060547
+NA",1,5,"1:19,1:27,1:29,1:35,1:42,1:55,1:6,1:65,1:68,1:79"
 57,"1,2,3,4,5",SM_V7_4,43486333,43486334,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_4%3A43469093%2D43486423&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_4%3A43486318%2D43498107&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,6.0,89.0,25.7,23.08700933,-0.865154,0.00295094,-0.1446890157,0.2584481067,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,43486333,43486334,"43469108
 43486333","43486408
@@ -443,157 +443,157 @@ error",1,5,"1:19,1:27,1:29,1:35,1:42,1:55,1:6,1:65,1:68,1:79"
 Hammerhead_1|Hammerhead_HH9|hammerhead-type1
 Hammerhead_HH9
 protein_coding",+,A,"aGATGCAGGTACATCCAGCTGACGAGTCCCAAATAGGACAAAACGCGCGTCCTGGATCCCACTGCTAGCCACTAT
-error","....((((....((((((..((((.((((......))))........))))))))))....))))..........
-error","-20.100000381469727
-error",1,5,"1:10,1:13,1:16,1:19,1:31,1:33,1:6,1:89,1:9"
+NA","....((((....((((((..((((.((((......))))........))))))))))....))))..........
+NA","-20.100000381469727
+NA",1,5,"1:10,1:13,1:16,1:19,1:31,1:33,1:6,1:89,1:9"
 58,"1,2,3,4,5",SM_V7_ZW,80410555,80410556,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_ZW%3A80407285%2D80410633&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_ZW%3A80410488%2D80426509&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,5.0,28.0,11.4,6.264183905,-0.217532,0.00936522,-0.064253532,0.08505543246,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,80410555,80410556,"80407300
 80410503","80410618
 80426494","5S_rRNA
 protein_coding","+
 -",A,"GCTCTACAACATATGTACAAGTAGTTATTTCTTGCAAGTACTGACCGGACCCaACGTTGCTTAACTGCGGTGATCGAACAAGAACCGGTGCTTTCAACGTGGTATGGTCGCCGGC
-error","..............((((..((((.......))))..))))((((((.(((..((((((........((((..((......)))))).......))))))))).)))))).....
-error","-26.0
-error",1,5,"1:10,1:12,1:14,1:28,1:5,1:7,1:9"
+NA","..............((((..((((.......))))..))))((((((.(((..((((((........((((..((......)))))).......))))))))).)))))).....
+NA","-26.0
+NA",1,5,"1:10,1:12,1:14,1:28,1:5,1:7,1:9"
 59,"1,2,3,4,5",SM_V7_4,39738603,39738604,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_4%3A39727033%2D39738625&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_4%3A39738546%2D39786039&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,5.0,14.0,9.6,2.576819745,-0.141839,0.00797954,-0.05138547723,0.06501843227,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,39738603,39738604,"39727048
 39738561","39738610
 39786024","Hammerhead_1
 Hammerhead_1|hammerhead-type1
 protein_coding",-,A,"AGCACTAGACGACCGTTTCGTCCTATTATGGGACTCCTCAGCaGTGAGC
-error","...................((((((...))))))..((((....)))).
-error","-9.300000190734863
-error",1,5,"1:10,1:11,1:13,1:14,1:5,1:7,1:8"
+NA","...................((((((...))))))..((((....)))).
+NA","-9.300000190734863
+NA",1,5,"1:10,1:11,1:13,1:14,1:5,1:7,1:8"
 60,"1,2",SM_V7_6,15552635,15552636,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_6%3A15546371%2D15552874&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_6%3A15552569%2D15566668&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,5.0,36.0,15.5,8.028075735,-0.390741,0.00765269,-0.06355486224,0.1202586529,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,15552635,15552636,"15546386
 15552584","15552859
 15566653","SSU_rRNA_eukarya
 protein_coding",+,G,"GTCTAAGTACATACCTTAAAACGGTGAAACCGCGAATGGCTCATTAAATCAgCTATGGTTCCTTAGATCATAAACGCTACATGGATAACTGTAGTAATTCTAGAGCTAATACATGCCTTGAATTCCTGACCCACAAGGGGACGGGTGCATCTATTAGAACAGAATCAACCGGGTGCGGCTTCGGCTGTGCCTGTTACATTCTGTGATGACTCTGGATAACTTTACTGATTGCAGTCGGCCTTGTGTCGGCGACGGATCTTTCAAATATCGGGGAG
-error","...........((((.......))))...((.(((((((((.........))))))........(((((.....((((((((((...((((((((...(((((((((((((.((((((((..(((((........))))).)))).)))).)))))).(((((((....((((((((((....))))))))))....))))))).....)))))))...........))))))))...))..)))).))))...)))))........))).))..
-error","-76.4000015258789
-error",1,2,"1:12,1:13,1:14,1:18,1:19,1:36,1:5,1:8"
+NA","...........((((.......))))...((.(((((((((.........))))))........(((((.....((((((((((...((((((((...(((((((((((((.((((((((..(((((........))))).)))).)))).)))))).(((((((....((((((((((....))))))))))....))))))).....)))))))...........))))))))...))..)))).))))...)))))........))).))..
+NA","-76.4000015258789
+NA",1,2,"1:12,1:13,1:14,1:18,1:19,1:36,1:5,1:8"
 61,"1,2",SM_V7_4,5302019,5302020,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_4%3A5262065%2D5302155&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_4%3A5301962%2D5309191&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,4.0,107.0,24.2,28.58601056,-1.60223,0.00310023,-0.2570723597,0.5012253744,20,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,5302019,5302020,"5262080
 5301977","5302140
 5309176","U1
 protein_coding","+
 -",T,"ATAACCACTTGGCGCCGGGTTCAGGGTGATCAGGAATGCTCTtACCCCGGGTGGAGGCTCACCATTGCACTTCAGTGGGTTGAAACTCGCGACGAACCCTAATCGGGTGCGCTCGGGCGTGTAGTTTTACACATAACAACTACATATTAATCTATGGGTTTTA
-error","..((((.(((((((((........)))).)))))...........(((((((((((..(((((((((.....))))))..)))..))).......((((.....)))).)))))))).(((((((((((....))).))))))))...........))))...
-error","-47.29999923706055
-error",1,2,"1:10,1:107,1:12,1:13,1:16,1:20,1:27,1:4,1:6"
+NA","..((((.(((((((((........)))).)))))...........(((((((((((..(((((((((.....))))))..)))..))).......((((.....)))).)))))))).(((((((((((....))).))))))))...........))))...
+NA","-47.29999923706055
+NA",1,2,"1:10,1:107,1:12,1:13,1:16,1:20,1:27,1:4,1:6"
 62,1,SM_V7_5,15673237,15673238,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A15672911%2D15673295&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A15673072%2D15673354&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,12.0,342.0,110.8,104.9607546,-0.548924,1.60887e-06,-0.07735551029,0.1708613757,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,15673237,15673238,"15672926
 15673087","15673280
 15673339","SSU_rRNA_eukarya
 protein_coding",+,A,"ATGGCTACTACATCCAAGGACGGCAGCAGGCGCGAAAATTACCCACTCTTGGTACGGGGAGGTAGTAATGAAAAATACATATACGGGATTCAATCGAGGCTCCGTAATTCGAATGAGTACAATTTAAATCCTCTAACGAGGACCAATCAGaAGGCAAGTCTGATGCCAGCAGCCGCGGTAACTCCAGCTTCAAAGCGTAAGCGTAATACTCGAGTTAAATGTCTATCTCCACAAAACCCTATACCGATATAA
-error","....................((((.((.(((......((((((..(((.......)))..))))))...............((((((.(((....)))..))))))((((....))))..........(((((....)))))...((((((.......))))))))).)).))))(((((((((.((.......((....))......)).))))..........................)))))......
-error","-53.20000076293945
-error",1,1,"1:12,1:135,1:27,1:273,1:342,1:41,1:50,1:60,1:69,1:99"
+NA","....................((((.((.(((......((((((..(((.......)))..))))))...............((((((.(((....)))..))))))((((....))))..........(((((....)))))...((((((.......))))))))).)).))))(((((((((.((.......((....))......)).))))..........................)))))......
+NA","-53.20000076293945
+NA",1,1,"1:12,1:135,1:27,1:273,1:342,1:41,1:50,1:60,1:69,1:99"
 63,"1,2,3,4,5",SM_V7_2,41162495,41162496,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_2%3A41160242%2D41162539&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_2%3A41160713%2D41162876&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,9.0,441.0,79.6,121.8952009,-1.25738,0.000124338,-0.1257265331,0.3772178242,20,T4RNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,41162495,41162496,"41160257
 41160728","41162524
 41162861","LSU_rRNA_eukarya
-protein_coding",-,T,error,error,error,1,5,"1:11,1:26,1:32,1:44,1:441,1:52,1:59,1:61,1:9"
+protein_coding",-,T,NA,NA,NA,1,5,"1:11,1:26,1:32,1:44,1:441,1:52,1:59,1:61,1:9"
 64,1,SM_V7_6,18568079,18568080,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_6%3A18560782%2D18568166&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_6%3A18567608%2D18638947&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,61.0,615.0,190.2,154.1102203,-0.459668,1.60887e-06,-0.08529079028,0.1712261758,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,18568079,18568080,"18560797
 18567623","18568151
 18638932","LSU_rRNA_eukarya
 protein_coding","+
--",A,error,error,error,1,1,"1:107,1:121,1:131,1:141,1:165,1:232,1:262,1:61,1:615,1:67"
+-",A,NA,NA,NA,1,1,"1:107,1:121,1:131,1:141,1:165,1:232,1:262,1:61,1:615,1:67"
 65,1,SM_V7_6,18568037,18568038,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_6%3A18560782%2D18568166&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_6%3A18567608%2D18638947&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,17.0,251.0,114.6,65.07257487,-0.398585,1.60887e-06,-0.06267923193,0.1310189873,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,18568037,18568038,"18560797
 18567623","18568151
 18638932","LSU_rRNA_eukarya
 protein_coding","+
--",T,error,error,error,1,1,"1:103,1:117,1:131,1:133,1:17,1:192,1:251,1:55,1:57,1:90"
+-",T,NA,NA,NA,1,1,"1:103,1:117,1:131,1:133,1:17,1:192,1:251,1:55,1:57,1:90"
 66,1,SM_V7_5,15793966,15793967,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A15776948%2D15794053&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A15793951%2D15795057&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,6.0,55.0,17.8,14.31642413,-0.554386,0.00299811,-0.08599185197,0.16815282,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,15793966,15793967,"15776963
 15793966","15794038
 15795042","protein_coding
 tRNA","+
 -",C,"cTCCTCGACCGGGAATCGAACCTGGGCCTTCCACGTGACAGGCGGAGATACTCACCACTATACAATCGAGGA
-error",".((((((((((((.......)))))((((((.....)).)))).(((...)))............)))))))
-error","-21.299999237060547
-error",1,1,"1:11,1:15,1:25,1:28,1:55,1:6,1:7,1:8"
+NA",".((((((((((((.......)))))((((((.....)).)))).(((...)))............)))))))
+NA","-21.299999237060547
+NA",1,1,"1:11,1:15,1:25,1:28,1:55,1:6,1:7,1:8"
 67,1,SM_V7_5,14548408,14548409,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A14524840%2D14549052&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A14548389%2D14558882&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,5.0,24.0,13.9,6.3,-0.528306,0.00182688,-0.0595048269,0.1576159955,20,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421",2,14548408,14548409,"14524855
 14548404","14549037
 14558867","LSU_rRNA_eukarya
 protein_coding","+
--",T,error,error,error,1,1,"1:10,1:13,1:14,1:19,1:21,1:24,1:5,1:6,1:8"
+-",T,NA,NA,NA,1,1,"1:10,1:13,1:14,1:19,1:21,1:24,1:5,1:6,1:8"
 68,"1,2,3,4,5",SM_V7_5,14548485,14548486,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A14524840%2D14549052&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A14548389%2D14558882&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,5.0,32.0,14.8,9.141115906,-0.529123,0.00874342,-0.1315725236,0.2052566348,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,14548485,14548486,"14524855
 14548404","14549037
 14558867","LSU_rRNA_eukarya
 protein_coding","+
--",T,error,error,error,1,5,"1:10,1:14,1:23,1:29,1:32,1:5,1:7,1:9"
+-",T,NA,NA,NA,1,5,"1:10,1:14,1:23,1:29,1:32,1:5,1:7,1:9"
 69,"1,2,3,4,5",SM_V7_2,38280549,38280550,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_2%3A38277588%2D38280670&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_2%3A38280533%2D38283053&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,6.0,38.0,20.7,10.72427154,-1.28156,0.00299811,-0.2119796419,0.3818284815,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,38280549,38280550,"38277603
 38280548","38280655
 38283038","U6
 protein_coding","+
 -",A,"GaAAATATGGAACGCTTCACGATTTTGCGTGTCATCTTTGCGCAGGGGCCATGCTAATCTTCTCTGTATCGTTCCAATTTTAGTATATGTACCGCCGAAGCGAGTAC
-error",".(((((.(((((((...((((......))))..........(((((((..((....))..)))))))..)))))))))))).......(((((((....))).))))
-error","-24.399999618530273
-error",1,5,"1:10,1:11,1:16,1:20,1:21,1:34,1:35,1:38,1:6"
+NA",".(((((.(((((((...((((......))))..........(((((((..((....))..)))))))..)))))))))))).......(((((((....))).))))
+NA","-24.399999618530273
+NA",1,5,"1:10,1:11,1:16,1:20,1:21,1:34,1:35,1:38,1:6"
 70,"1,2,3,4,5",SM_V7_ZW,78410382,78410383,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_ZW%3A78402334%2D78410440&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_ZW%3A78409178%2D78421570&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,12.0,44.0,24.0,12.05819224,-1.47295,1.60887e-06,-0.2580891803,0.4580626013,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,78410382,78410383,"78402349
 78409193","78410425
 78421555","LSU_rRNA_eukarya
-protein_coding",-,A,error,error,error,1,5,"1:12,1:13,1:18,1:21,1:34,1:40,1:44"
+protein_coding",-,A,NA,NA,NA,1,5,"1:12,1:13,1:18,1:21,1:34,1:40,1:44"
 71,"1,2",SM_V7_1,86376680,86376681,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A86356177%2D86376995&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A86376612%2D86393894&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,5.0,98.0,30.5,27.64507189,-1.18435,0.00874342,-0.1739524305,0.35536569,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,86376680,86376681,"86356192
 86376627","86376980
 86393879","LSU_rRNA_eukarya
 protein_coding","+
--",T,error,error,error,1,2,"1:12,1:18,1:29,1:31,1:44,1:5,1:55,1:6,1:7,1:98"
+-",T,NA,NA,NA,1,2,"1:12,1:18,1:29,1:31,1:44,1:5,1:55,1:6,1:7,1:98"
 72,1,SM_V7_ZW,78410799,78410800,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_ZW%3A78402334%2D78410929&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_ZW%3A78410746%2D78421570&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,6.0,19.0,11.6,3.611094017,-0.172397,0.00235296,-0.04411674416,0.06885260704,20,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,78410799,78410800,"78402349
 78410761","78410914
 78421555","5_8S_rRNA
 protein_coding",-,C,"CAACCCTCGGACAGGCGTGGCCACAGGATATCCCGTAGcCGCAATATGCGTTCAAGATGTCGATGTTCAAAGCAGTATGCAGTTCACATTAATTCACACAGTTGGCTGCACTCTTCATCGACACACGAGCTGAGTGATCCACCGCTCAAAGTT
-error","....(((.....))).(((((.((.((....)).)).))))).......((((..(.((((((((....(((.(((..((((((.((.............)).)))))))))))))))))))))..))))((((((......)))))).....
-error","-41.900001525878906
-error",1,1,"1:10,1:12,1:13,1:14,1:19,1:6,1:7,1:9"
+NA","....(((.....))).(((((.((.((....)).)).))))).......((((..(.((((((((....(((.(((..((((((.((.............)).)))))))))))))))))))))..))))((((((......)))))).....
+NA","-41.900001525878906
+NA",1,1,"1:10,1:12,1:13,1:14,1:19,1:6,1:7,1:9"
 73,"1,2",SM_V7_1,58751883,58751884,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A58742354%2D58752719&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A58751534%2D58777083&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,7.0,57.0,21.4,14.8539557,-0.405597,1.99872e-06,-0.05052202841,0.1220165909,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,58751883,58751884,"58742369
 58751549","58752704
 58777068","SSU_rRNA_eukarya
-protein_coding",-,C,error,error,error,1,2,"1:10,1:11,1:14,1:17,1:19,1:25,1:40,1:57,1:7"
+protein_coding",-,C,NA,NA,NA,1,2,"1:10,1:11,1:14,1:17,1:19,1:25,1:40,1:57,1:7"
 74,"1,2,3,4,5",SM_V7_1,86376800,86376801,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A86356177%2D86376995&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A86376612%2D86393894&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,9.0,322.0,182.5,99.16980387,-0.315336,1.35406e-05,-0.05654316293,0.1140239054,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,86376800,86376801,"86356192
 86376627","86376980
 86393879","LSU_rRNA_eukarya
 protein_coding","+
--",T,error,error,error,1,5,"1:169,1:187,1:208,1:236,1:237,1:313,1:322,1:54,1:9,1:90"
+-",T,NA,NA,NA,1,5,"1:169,1:187,1:208,1:236,1:237,1:313,1:322,1:54,1:9,1:90"
 75,"1,2,3",SM_V7_1,58751778,58751779,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A58742354%2D58752719&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A58751534%2D58777083&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,6.0,23.0,12.6,5.936328832,-0.837374,0.000140012,-0.1142886507,0.245378924,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,58751778,58751779,"58742369
 58751549","58752704
 58777068","SSU_rRNA_eukarya
-protein_coding",-,G,error,error,error,1,3,"1:10,1:17,1:18,1:20,1:23,1:6,1:8,1:9"
+protein_coding",-,G,NA,NA,NA,1,3,"1:10,1:17,1:18,1:20,1:23,1:6,1:8,1:9"
 76,"1,2,3,4,5",SM_V7_7,18962472,18962473,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_7%3A18956607%2D18962528&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_7%3A18962389%2D18993723&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,14.0,104.0,52.8,29.62026333,-0.790021,1.60887e-06,-0.1663198261,0.247173362,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,18962472,18962473,"18956622
 18962404","18962513
 18993708","U6
 protein_coding",+,A,"GTACTCGCTTCGGTGGTACATATACTAAAATTGGAACGATACAAAGAATATTAGCATGGCCCCTGCTCaCGGGGATGACACGCAAAATCGTGAAGCGTTCTATATTTTT
-error","((((.(((....))))))).......((((((((((((...((..((...((.((.((..(((((....)))))....)).)).)).)).))...))))))).))))).
-error","-23.200000762939453
-error",1,5,"1:104,1:14,1:16,1:18,1:39,1:55,1:58,1:63,1:70,1:91"
+NA","((((.(((....))))))).......((((((((((((...((..((...((.((.((..(((((....)))))....)).)).)).)).))...))))))).))))).
+NA","-23.200000762939453
+NA",1,5,"1:104,1:14,1:16,1:18,1:39,1:55,1:58,1:63,1:70,1:91"
 77,"1,2,3,4,5",SM_V7_1,86846010,86846011,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A86842877%2D86846217&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A86845815%2D86899630&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,8.0,30.0,17.2,7.208328516,-0.177322,3.62873e-06,-0.0565729767,0.07188005725,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,86846010,86846011,"86842892
 86845830","86846202
 86899615","LSU_rRNA_eukarya
-protein_coding",-,T,error,error,error,1,5,"1:10,1:13,1:16,1:18,1:20,1:24,1:25,1:30,1:8"
+protein_coding",-,T,NA,NA,NA,1,5,"1:10,1:13,1:16,1:18,1:20,1:24,1:25,1:30,1:8"
 78,1,SM_V7_1,21179928,21179929,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A21145399%2D21180073&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A21179700%2D21212014&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,4.0,14.0,9.3,3.348133809,-0.1605,0.00295094,-0.03805778619,0.05745915197,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,21179928,21179929,"21145414
 21179715","21180058
 21211999",protein_coding,"+
--",C,error,error,error,1,1,"1:10,1:12,1:13,1:14,1:4,1:6"
+-",C,NA,NA,NA,1,1,"1:10,1:12,1:13,1:14,1:4,1:6"
 79,1,SM_V7_1,58751678,58751679,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A58742354%2D58752719&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A58751534%2D58777083&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,11.0,125.0,42.2,34.24850362,-0.753705,1.60887e-06,-0.1355678634,0.2424104019,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,58751678,58751679,"58742369
 58751549","58752704
 58777068","SSU_rRNA_eukarya
-protein_coding",-,A,error,error,error,1,1,"1:11,1:125,1:21,1:22,1:24,1:28,1:61,1:81"
+protein_coding",-,A,NA,NA,NA,1,1,"1:11,1:125,1:21,1:22,1:24,1:28,1:61,1:81"
 80,"1,2,3,4,5",SM_V7_3,651971,651972,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A646137%2D651993&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A651914%2D793622&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,7.0,79.0,36.4,19.32976979,-0.914807,0.00074088,-0.2102175035,0.3076192437,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,651971,651972,"646152
 651929","651978
@@ -601,121 +601,121 @@ protein_coding",-,A,error,error,error,1,1,"1:11,1:125,1:21,1:22,1:24,1:28,1:61,1
 Hammerhead_1|hammerhead-type1
 protein_coding","+
 -",A,"AGCACTAGACGGCCGTTTCGTCCTATTATGGGACTCCTCAGTaGTGTGC
-error",".((((((...((..(((((((......))))))).))....))))))..
-error","-11.800000190734863
-error",1,5,"1:16,1:22,1:24,1:39,1:41,1:43,1:45,1:48,1:7,1:79"
+NA",".((((((...((..(((((((......))))))).))....))))))..
+NA","-11.800000190734863
+NA",1,5,"1:16,1:22,1:24,1:39,1:41,1:43,1:45,1:48,1:7,1:79"
 81,1,SM_V7_3,1903306,1903307,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A1806743%2D1903442&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A1903250%2D1947261&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,45.0,316.0,149.4,70.16722882,-0.989928,1.60887e-06,-0.1933896728,0.3242678214,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,1903306,1903307,"1806758
 1903265","1903427
 1947246","SSU_rRNA_eukarya
 protein_coding",-,A,"CTTCCGCAGGTTCACCTACGGAAACATTTTTACGACTTTTAaTTCCTCTAAATAGTCAAATTAGGTCATCTTCTCAGCATCAGTCGAGTGGCAAAGCCACTACAACGACATCAATCCAACGACTTCATTAAACCATTTAATCGGTAGTAGCGACGGGCAGTG
-error",".(((((.(((....))).)))))..........((((..(((((...((....))...)))))))))...............((((((((((...))))))....)))).....(((..((.((..(((..(((........))))))))))..))).....
-error","-28.899999618530273
-error",1,1,"1:105,1:122,1:131,1:163,1:167,1:196,1:316,1:45,1:82"
+NA",".(((((.(((....))).)))))..........((((..(((((...((....))...)))))))))...............((((((((((...))))))....)))).....(((..((.((..(((..(((........))))))))))..))).....
+NA","-28.899999618530273
+NA",1,1,"1:105,1:122,1:131,1:163,1:167,1:196,1:316,1:45,1:82"
 82,1,SM_V7_1,86376944,86376945,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A86356177%2D86376995&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A86376612%2D86393894&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,8.0,26.0,16.9,7.381734214,-0.611445,0.000199255,-0.06112115009,0.1834412928,20,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,86376944,86376945,"86356192
 86376627","86376980
 86393879","LSU_rRNA_eukarya
 protein_coding","+
--",G,error,error,error,1,1,"1:10,1:14,1:16,1:24,1:26,1:8,1:9"
+-",G,NA,NA,NA,1,1,"1:10,1:14,1:16,1:24,1:26,1:8,1:9"
 83,"1,2,3,4,5",SM_V7_3,1016772,1016773,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A1016707%2D1017302&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A968234%2D1045954&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,3.0,15.0,8.7,3.226453161,-0.137792,0.00251362,-0.03435102624,0.05557215178,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,1016772,1016773,"1016722
 968249","1017287
 1045939","SSU_rRNA_eukarya
 protein_coding","+
--",G,error,error,error,1,5,"1:10,1:12,1:15,1:3,1:6,1:7,1:9"
+-",G,NA,NA,NA,1,5,"1:10,1:12,1:15,1:3,1:6,1:7,1:9"
 84,1,SM_V7_ZW,72362029,72362030,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_ZW%3A72313207%2D72362165&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_ZW%3A72362013%2D72375612&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,13.0,189.0,96.6,62.0454672,-4.24607e-06,1.58897e-06,-5.37287824e-07,1.630527122e-06,20,T4RNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,72362029,72362030,"72313222
 72362028","72362150
 72375597","5S_rRNA
 protein_coding",+,C,"TcCGGCAACCATACCACGTTGAAAGCACCGGTTCTCGTCCGATCACCGCAATTAAGCAACGTTGGGCTGAATATTTACTCTATGTGATATGCTCCAAAAAAAACATTAGATAGTAGTCTATA
-error","..((((..(((....((((((.......((((..((....))..))))........)))))))))))))..(((..(((((((.((((................)))).)))).)))..)))
-error","-22.5
-error",1,1,"1:101,1:113,1:13,1:133,1:144,1:177,1:189,1:26,1:29,1:41"
+NA","..((((..(((....((((((.......((((..((....))..))))........)))))))))))))..(((..(((((((.((((................)))).)))).)))..)))
+NA","-22.5
+NA",1,1,"1:101,1:113,1:13,1:133,1:144,1:177,1:189,1:26,1:29,1:41"
 85,1,SM_V7_5,14548623,14548624,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A14524840%2D14549052&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A14548389%2D14558882&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,12.0,171.0,92.5,49.81013953,-0.552067,1.60887e-06,-0.1032600267,0.1773334322,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,14548623,14548624,"14524855
 14548404","14549037
 14558867","LSU_rRNA_eukarya
 protein_coding","+
--",A,error,error,error,1,1,"1:110,1:118,1:12,1:132,1:157,1:171,1:47,1:53,1:57,1:68"
+-",A,NA,NA,NA,1,1,"1:110,1:118,1:12,1:132,1:157,1:171,1:47,1:53,1:57,1:68"
 86,1,SM_V7_3,1016867,1016868,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A1016707%2D1017302&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A968234%2D1045954&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,9.0,38.0,21.9,9.974467404,-0.477266,1.60887e-06,-0.07506791868,0.1446022208,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,1016867,1016868,"1016722
 968249","1017287
 1045939","SSU_rRNA_eukarya
 protein_coding","+
--",G,error,error,error,1,1,"1:11,1:12,1:24,1:25,1:28,1:36,1:38,1:9"
+-",G,NA,NA,NA,1,1,"1:11,1:12,1:24,1:25,1:28,1:36,1:38,1:9"
 87,1,SM_V7_1,34498816,34498817,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A34489418%2D34498878&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A34498774%2D34518167&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,15.0,447.0,163.9,125.2624844,-1.87225,1.16181e-06,-0.1872256222,0.5616747926,20,T4RNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,34498816,34498817,"34489433
 34498789","34498863
 34518152","protein_coding
 tRNA","+
 -",T,"TTCTCCGTGGCGCAACCGGTTAGCGCGtTCGGCTGTTAACCGAAAGGTTGGTGGTTCGAGCCCACCCGGAGGCG
-error",".((((((.((.(....((((((((((.....)).))))))))...((((.(.....).))))).))))))))..
-error","-27.299999237060547
-error",1,1,"1:111,1:15,1:153,1:161,1:257,1:289,1:447,1:62,1:66,1:78"
+NA",".((((((.((.(....((((((((((.....)).))))))))...((((.(.....).))))).))))))))..
+NA","-27.299999237060547
+NA",1,1,"1:111,1:15,1:153,1:161,1:257,1:289,1:447,1:62,1:66,1:78"
 88,"1,2,3",SM_V7_1,86288033,86288034,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A86276137%2D86288116&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A86287967%2D86316118&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,6.0,75.0,45.6,23.37177785,-1.19939,0.00182688,-0.1775415494,0.359302863,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,86288033,86288034,"86276152
 86287982","86288101
 86316103","5S_rRNA
 protein_coding","+
 -",T,"AGCCGGCGACACCCGGTATTCCCAGCCGGTCACCCATGCAAGTACTGACCGtGTCCAACGTTGCTTAACTGCGGTGATCGGACGAGAACCGGTGCTTTCAACGTGGTATGGTCGCCGGC
-error",".(((((((((..(((((.(((....(((((((((((...(((((.....(((.....))).)))))...)).)))))))))..))).)))))((((........))))..)))))))))
-error","-48.400001525878906
-error",1,3,"1:18,1:28,1:29,1:41,1:56,1:6,1:60,1:70,1:73,1:75"
+NA",".(((((((((..(((((.(((....(((((((((((...(((((.....(((.....))).)))))...)).)))))))))..))).)))))((((........))))..)))))))))
+NA","-48.400001525878906
+NA",1,3,"1:18,1:28,1:29,1:41,1:56,1:6,1:60,1:70,1:73,1:75"
 89,"1,2,3",SM_V7_ZW,78410790,78410791,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_ZW%3A78402334%2D78410929&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_ZW%3A78410746%2D78421570&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,17.0,75.0,44.9,18.87564568,-1.55227,1.60887e-06,-0.3186615119,0.4933414402,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,78410790,78410791,"78402349
 78410761","78410914
 78421555","5_8S_rRNA
 protein_coding",-,A,"CAACCCTCGGACAGGCGTGGCCACAGGATaTCCCGTAGCCGCAATATGCGTTCAAGATGTCGATGTTCAAAGCAGTATGCAGTTCACATTAATTCACACAGTTGGCTGCACTCTTCATCGACACACGAGCTGAGTGATCCACCGCTCAAAGTT
-error","....(((.....))).(((((.((.((....)).)).))))).......((((..(.((((((((....(((.(((..((((((.((.............)).)))))))))))))))))))))..))))((((((......)))))).....
-error","-41.900001525878906
-error",1,3,"1:17,1:27,1:33,1:35,1:39,1:41,1:42,1:70,1:75"
+NA","....(((.....))).(((((.((.((....)).)).))))).......((((..(.((((((((....(((.(((..((((((.((.............)).)))))))))))))))))))))..))))((((((......)))))).....
+NA","-41.900001525878906
+NA",1,3,"1:17,1:27,1:33,1:35,1:39,1:41,1:42,1:70,1:75"
 90,1,SM_V7_ZW,299200,299201,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_ZW%3A292783%2D300455&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_ZW%3A299072%2D445307&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,4.0,50.0,17.7,12.38587906,-0.153303,0.000104247,-0.03473609397,0.05872934191,20,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,299200,299201,"292798
 299087","300440
 445292","SSU_rRNA_eukarya
 protein_coding","+
--",C,error,error,error,1,1,"1:12,1:13,1:14,1:22,1:27,1:4,1:50,1:8"
+-",C,NA,NA,NA,1,1,"1:12,1:13,1:14,1:22,1:27,1:4,1:50,1:8"
 91,1,SM_V7_ZW,299230,299231,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_ZW%3A292783%2D300455&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_ZW%3A299072%2D445307&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,20.0,530.0,210.5,153.7115806,-3.08804,1.60887e-06,-0.4000679765,0.9363946725,20,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,299230,299231,"292798
 299087","300440
 445292","SSU_rRNA_eukarya
 protein_coding","+
--",C,error,error,error,1,1,"1:160,1:20,1:258,1:290,1:294,1:346,1:45,1:530,1:65,1:97"
-92,"1,2,3,4,5",SM_V7_2,41160334,41160335,[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_2%3A41160242%2D41162876&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv),-,8.0,507.0,101.3157895,122.9304693,-1.2769,0.000342204,-0.1366563805,0.3066632862,19,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,41160334,41160335,41160257,41162861,LSU_rRNA_eukarya,-,T,error,error,error,1,5,"1:10,1:132,1:14,1:140,1:173,1:19,1:192,1:210,1:24,1:244,1:507,1:56,1:73,1:8,1:87,1:9"
+-",C,NA,NA,NA,1,1,"1:160,1:20,1:258,1:290,1:294,1:346,1:45,1:530,1:65,1:97"
+92,"1,2,3,4,5",SM_V7_2,41160334,41160335,[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_2%3A41160242%2D41162876&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv),-,8.0,507.0,101.3157895,122.9304693,-1.2769,0.000342204,-0.1366563805,0.3066632862,19,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,41160334,41160335,41160257,41162861,LSU_rRNA_eukarya,-,T,NA,NA,NA,1,5,"1:10,1:132,1:14,1:140,1:173,1:19,1:192,1:210,1:24,1:244,1:507,1:56,1:73,1:8,1:87,1:9"
 93,"1,2",SM_V7_1,58752287,58752288,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A58742354%2D58752719&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A58751534%2D58777083&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,3.0,37.0,13.22222222,9.472507327,-0.387177,0.00251362,-0.0695115156,0.1227485498,18,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421,280920",3,58752287,58752288,"58742369
 58751549","58752704
 58777068","SSU_rRNA_eukarya
-protein_coding",-,A,error,error,error,1,2,"1:10,1:14,1:20,1:3,1:37,1:8,1:9"
+protein_coding",-,A,NA,NA,NA,1,2,"1:10,1:14,1:20,1:3,1:37,1:8,1:9"
 94,1,SM_V7_1,86376959,86376960,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A86356177%2D86376995&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_1%3A86376612%2D86393894&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,4.0,23.0,15.22222222,6.646265079,-0.611758,1.60887e-06,-0.08186776626,0.189109739,18,"AtRNL,T4RNL",2,"bF,bM,sF,sM",4,"10421,140421",2,86376959,86376960,"86356192
 86376627","86376980
 86393879","LSU_rRNA_eukarya
 protein_coding","+
--",G,error,error,error,1,1,"1:13,1:14,1:16,1:18,1:22,1:23,1:4,1:5"
+-",G,NA,NA,NA,1,1,"1:13,1:14,1:16,1:18,1:22,1:23,1:4,1:5"
 95,"1,2,3,4,5",SM_V7_2,45083756,45083757,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_2%3A45072307%2D45083901&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_2%3A45083677%2D45140006&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,4.0,32.0,15.88888889,10.92849938,-0.191294,0.000145339,-0.04831475167,0.0682835249,18,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,45083756,45083757,"45072322
 45083692","45083886
 45139991","U2
 protein_coding",+,C,"ATCGCTTCTCGGCTCTCTGAGCTAAGATCATGTGTAGTATCTGTTCTTCGCAGTGTAATTTCTGcAACGGTCTCTAAACTGAGACCAATGAAATTACCTGTATTTTTCACCTCCGGACGGGTGCTGTGAGCTTGCTCAACCCCGTCCACGGGTCGGCCTCGTATTGCATTGCCTCGAGGATTGGCCCATTAATC
-error","......(((.(((((...))))).)))......................((((.((((((((......((((((......))))))...)))))))))))).............(((((((.(...((((....)))).))))))))..((((((((((((....((...))..))))).))))))).......
-error","-64.5
-error",1,5,"1:11,1:17,1:27,1:32,1:4,1:8"
+NA","......(((.(((((...))))).)))......................((((.((((((((......((((((......))))))...)))))))))))).............(((((((.(...((((....)))).))))))))..((((((((((((....((...))..))))).))))))).......
+NA","-64.5
+NA",1,5,"1:11,1:17,1:27,1:32,1:4,1:8"
 96,"1,2,3,4",SM_V7_5,8780853,8780854,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A8744750%2D8780927&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A8780500%2D8789305&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,6.0,33.0,14.33333333,8.88194173,-0.1338,0.00192852,-0.03519251664,0.05163622704,18,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,8780853,8780854,"8744765
 8780515","8780912
 8789290",protein_coding,"+
--",C,error,error,error,1,4,"1:12,1:16,1:18,1:24,1:33,1:6,1:7"
+-",C,NA,NA,NA,1,4,"1:12,1:16,1:18,1:24,1:33,1:6,1:7"
 97,"1,2,3,4,5",SM_V7_5,15793987,15793988,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A15776948%2D15794053&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_5%3A15793951%2D15795057&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",-,5.0,47.0,16.44444444,13.07339207,-0.255343,0.00874342,-0.08527659735,0.1036323768,18,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,15793987,15793988,"15776963
 15793966","15794038
 15795042","protein_coding
 tRNA","+
 -",C,"CTCCTCGACCGGGAATCGAACcTGGGCCTTCCACGTGACAGGCGGAGATACTCACCACTATACAATCGAGGA
-error",".((((((((((((.......)))))((((((.....)).)))).(((...)))............)))))))
-error","-21.299999237060547
-error",1,5,"1:11,1:15,1:23,1:27,1:47,1:5,1:6,1:7"
+NA",".((((((((((((.......)))))((((((.....)).)))).(((...)))............)))))))
+NA","-21.299999237060547
+NA",1,5,"1:11,1:15,1:23,1:27,1:47,1:5,1:6,1:7"
 98,"1,2,3,4,5",SM_V7_4,39631819,39631820,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_4%3A39586692%2D39631841&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_4%3A39631762%2D39699707&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,5.0,81.0,38.33333333,25.94010194,-0.411063,0.00936522,-0.1230342847,0.1506883205,18,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,39631819,39631820,"39586707
 39631777","39631826
@@ -723,15 +723,15 @@ error",1,5,"1:11,1:15,1:23,1:27,1:47,1:5,1:6,1:7"
 Hammerhead_1|hammerhead-type1
 protein_coding","+
 -",A,"AGCGCTAGACGGCCGTTTCGTCCTATCATGGGACTCCTCAGCaGTGCGA
-error",".(((((.((.((..(((((((......))))))).))))...)))))..
-error","-12.600000381469727
-error",1,5,"1:16,1:19,1:22,1:23,1:48,1:5,1:56,1:75,1:81"
+NA",".(((((.((.((..(((((((......))))))).))))...)))))..
+NA","-12.600000381469727
+NA",1,5,"1:16,1:19,1:22,1:23,1:48,1:5,1:56,1:75,1:81"
 99,"1,2,3,4,5",SM_V7_3,31635012,31635013,"[UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A31555100%2D31635145&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)
 [UCSC Track Hub](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hub_393513_genome&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=SM_V7_3%3A31634964%2D31652110&hgsid=289039575_YBfPH3PcZLRQ4IcjY242DYci9ggv)",+,5.0,538.0,224.7777778,159.2348216,-1.26131,0.00874342,-0.2567701572,0.392776064,18,AtRNL,1,"bF,bM,sF,sM",4,"10421,140421,280920",3,31635012,31635013,"31555115
 31634979","31635130
 31652095","U1
 protein_coding",+,T,"AAACTTACTTGGCGCCGGGACCAGGGTGATCACtGAATGTGTTCCCGGAGATGCCATTGCACTCCGGCGTGTTGAAGCCTGCGACGATCCCTAATTGGGCTCGCTCGGACGCGTAGTTTTTGTCAGTGGGGAGGTCTTCGGATCATCCCTT
-error","......(((..((((((((.....((.((.(((.....))).))))((((.(((....)))))))(((........))).....(((.(((.....))).)))))))).)))..)))..........(((((((((....)))).))))).
-error","-52.400001525878906
-error",1,5,"1:10,1:128,1:196,1:217,1:267,1:308,1:354,1:5,1:538"
+NA","......(((..((((((((.....((.((.(((.....))).))))((((.(((....)))))))(((........))).....(((.(((.....))).)))))))).)))..)))..........(((((((((....)))).))))).
+NA","-52.400001525878906
+NA",1,5,"1:10,1:128,1:196,1:217,1:267,1:308,1:354,1:5,1:538"
 

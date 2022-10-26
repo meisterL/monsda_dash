@@ -353,6 +353,7 @@ if __name__ == "__main__":
     # )
     app.layout = build_app(PAGE_SIZE, df)
     app.run_server(debug=True)
+    app.run_server(debug=True)
 
 
 # df = pd.read_csv("Tables/220915_ALL_1_clean_2.csv")
