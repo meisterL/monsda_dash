@@ -1,0 +1,38 @@
+"PEAKS": {
+  "TOOLS": {
+    "macs": "macs2",
+    "peaks": "peaks",
+    "scyphy": "Piranha"
+  },
+  "COMPARABLE": {
+    "Condition": "Control"
+  },
+  "id": {
+    "condition": {
+      "macs": {
+        "CLIP": "iCLIP",
+        "OPTIONS": {
+          "FINDPEAKS": "-g --keep-dup auto --fix-bimodal --extsize 200 --qvalue 0.05 --shift -100"
+        }
+      },
+      "peaks": {
+        "CLIP": "iCLIP",
+        "OPTIONS": {
+          "PREPROCESS": "",
+          "FINDPEAKS": "-b 10"
+        }
+      },
+      "scyphy": {
+        "CLIP": "iCLIP",
+        "OPTIONS": {
+          "PREPROCESS": "",
+          "FINDPEAKS": "-b 10",
+          "HUB": "",
+          "TRACKID": "",
+          "FILTERLIMIT": "5",
+          "FOLDLIMIT": "30",
+        }
+      }
+    }
+  }
+},
